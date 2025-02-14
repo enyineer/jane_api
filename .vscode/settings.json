@@ -1,0 +1,5 @@
+{
+  "python.testing.pytestEnabled": true,
+  "editor.indentSize": "tabSize",
+  "editor.tabSize": 2,
+}

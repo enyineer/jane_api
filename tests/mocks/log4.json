@@ -1,0 +1,259 @@
+{
+  "age": 1,
+  "environment": {
+    "name": "Indoor",
+    "avatar": null,
+    "type": "EnvironmentTypeEnum.indoor",
+    "indoorLength": 100,
+    "indoorWidth": 100,
+    "exposureTime": 18,
+    "environment_changes": [
+      {
+        "date": "20241027",
+        "environment": {
+          "lights": [],
+          "exposureTime": 12,
+          "name": "Indoor",
+          "type": "EnvironmentTypeEnum.indoor"
+        },
+        "changes": ["EnvironmentChangeType.new_setup"],
+        "_type": "environmentChanges",
+        "active": true
+      },
+      {
+        "date": "20241027",
+        "environment": {
+          "exposureTime": 18,
+          "name": "Indoor",
+          "type": "EnvironmentTypeEnum.indoor",
+          "lights": [{ "wattage": "250", "type": "LightingTypeEnum.led" }]
+        },
+        "original_environment": {
+          "lights": [],
+          "exposureTime": 12,
+          "name": "Indoor",
+          "type": "EnvironmentTypeEnum.indoor"
+        },
+        "changes": [
+          "EnvironmentChangeType.exposition_change",
+          "EnvironmentChangeType.new_light"
+        ],
+        "_type": "environmentChanges",
+        "active": true
+      }
+    ],
+    "indoorHeight": 200,
+    "lights": [{ "wattage": "250", "type": "LightingTypeEnum.led" }],
+    "updatedAt": { "_seconds": 1729984946, "_nanoseconds": 556000000 }
+  },
+  "events": {
+    "20250212": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20250212",
+          "stage": "germination"
+        }
+      ],
+      "reminders": [
+        {
+          "environments": [],
+          "exclusions": [],
+          "futureExclusions": [],
+          "date": "20250212",
+          "_type": "reminders",
+          "description": null,
+          "active": true,
+          "environmentsTrees": {},
+          "type": "ReminderTypeEnum.trim",
+          "isDone": null,
+          "trees": ["RTFv5PA0rkGvkOx81z8k"],
+          "rrule": null,
+          "notificationTime": null,
+          "name": "Trim",
+          "hasRrule": false,
+          "logs": {
+            "eoOHm7hOuUL6SXE8fx8J": {
+              "date": "20250212",
+              "timestamp": { "_seconds": 1739389435, "_nanoseconds": 339694000 }
+            }
+          },
+          "timestamp": { "_seconds": 1739388895, "_nanoseconds": 535874000 }
+        },
+        {
+          "environments": [],
+          "exclusions": [],
+          "futureExclusions": [],
+          "date": "20250212",
+          "_type": "reminders",
+          "description": null,
+          "active": true,
+          "environmentsTrees": {},
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["RTFv5PA0rkGvkOx81z8k"],
+          "rrule": null,
+          "notificationTime": null,
+          "name": "Water",
+          "hasRrule": false,
+          "logs": {
+            "XqCaxUYPOHvTObA3fman": {
+              "date": "20250212",
+              "timestamp": { "_seconds": 1739389432, "_nanoseconds": 598572000 }
+            }
+          },
+          "timestamp": { "_seconds": 1739388895, "_nanoseconds": 535874000 }
+        },
+        {
+          "environments": [],
+          "exclusions": [],
+          "futureExclusions": [],
+          "date": "20250212",
+          "_type": "reminders",
+          "description": null,
+          "active": true,
+          "environmentsTrees": {},
+          "type": "ReminderTypeEnum.repelent",
+          "isDone": null,
+          "trees": ["RTFv5PA0rkGvkOx81z8k"],
+          "rrule": null,
+          "notificationTime": null,
+          "name": "Repellent",
+          "hasRrule": false,
+          "logs": {
+            "epGPV807bEkzVptnvweQ": {
+              "date": "20250212",
+              "timestamp": { "_seconds": 1739389434, "_nanoseconds": 607453000 }
+            }
+          },
+          "timestamp": { "_seconds": 1739388895, "_nanoseconds": 535874000 }
+        },
+        {
+          "environments": [],
+          "exclusions": [],
+          "futureExclusions": [],
+          "date": "20250212",
+          "_type": "reminders",
+          "description": null,
+          "active": true,
+          "environmentsTrees": {},
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": null,
+          "trees": ["RTFv5PA0rkGvkOx81z8k"],
+          "rrule": null,
+          "notificationTime": null,
+          "name": "Nutrients",
+          "hasRrule": false,
+          "logs": {
+            "pVkdrJSpj28wdhkrqCJF": {
+              "date": "20250212",
+              "timestamp": { "_seconds": 1739389433, "_nanoseconds": 671152000 }
+            }
+          },
+          "timestamp": { "_seconds": 1739388895, "_nanoseconds": 535874000 }
+        }
+      ],
+      "photos": [
+        {
+          "environments": [],
+          "mainTree": [],
+          "date": "20250212",
+          "note": "Foo",
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["RTFv5PA0rkGvkOx81z8k"],
+          "rrule": null,
+          "id": "HfuG2im5hhw8dXBHkKBd",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1739389782, "_nanoseconds": 887437000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/Rgabb4spzNOaMlGbTCXIxiEZ5pa2%2Fimg%401739389787261.jpg?alt=media&token=69461616-5a32-40c5-b34d-e693f583f53c",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "treeLogs": [
+        {
+          "environments": [],
+          "date": "20250212",
+          "note": "Log",
+          "rrule": null,
+          "values": {
+            "waterTemp": {
+              "unit": "TemperatureEnum.celcius",
+              "min": null,
+              "max": null,
+              "value": 16
+            },
+            "ph": { "unit": null, "min": 6.5, "max": 6.8, "value": null },
+            "ppfd": {
+              "unit": "μmol/s/m²",
+              "min": 6.5,
+              "max": 6.7,
+              "value": null
+            },
+            "ppm": { "unit": "ppm", "min": null, "max": null, "value": 400 },
+            "ec": { "unit": "mS/cm", "min": null, "max": null, "value": 2 },
+            "height": {
+              "unit": "LengthEnum.centimeter",
+              "min": null,
+              "max": null,
+              "value": 100
+            }
+          },
+          "_type": "treeLogs",
+          "active": true,
+          "environmentsTrees": {},
+          "trees": ["RTFv5PA0rkGvkOx81z8k"]
+        },
+        {
+          "environments": [],
+          "date": "20250212",
+          "note": "Foo",
+          "rrule": null,
+          "values": {},
+          "_type": "treeLogs",
+          "active": true,
+          "environmentsTrees": {},
+          "trees": ["RTFv5PA0rkGvkOx81z8k"]
+        }
+      ]
+    }
+  },
+  "lastUpdate": "20250212",
+  "photosCount": 1,
+  "strain": {
+    "seedFinderId": "Sin_Tra_Bajo",
+    "breederId": "Barneys_Farm",
+    "strainClass": null,
+    "breederName": "Barneys Farm",
+    "name": "Sin Tra Bajo",
+    "description": null,
+    "strainId": "660486aa2e63f1b47c036691",
+    "avatar": null,
+    "type": null,
+    "strainSource": "StrainSourceEnum.back"
+  },
+  "tree": {
+    "environmentMoves": [],
+    "stageChanges": [
+      { "date": "20250212", "from": "null", "to": "TreeStageEnum.germination" }
+    ],
+    "environment": { "name": "Indoor", "id": "PQyZJ8Xl27QzpVDnkZ93" },
+    "stage": "TreeStageEnum.germination",
+    "mediumType": "null",
+    "weight": null,
+    "avatar": null,
+    "state": "TreeStateEnum.active",
+    "strain": { "name": "Sin Tra Bajo", "id": "P0IecSTi6qlWagUgZeL9" },
+    "mediumDesc": "",
+    "name": "Sin Tra Bajo",
+    "isClone": false,
+    "updatedAt": { "_seconds": 1739389843, "_nanoseconds": 517000000 },
+    "germinationDate": "20250212",
+    "stages": { "germination": "20250212" }
+  },
+  "user": { "lengthUnit": null, "temperatureUnit": null },
+  "views": 4
+}

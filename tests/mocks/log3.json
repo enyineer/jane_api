@@ -1,0 +1,83 @@
+{
+  "age": 1,
+  "environment": {
+    "name": "Indoor",
+    "avatar": null,
+    "type": "EnvironmentTypeEnum.indoor",
+    "indoorLength": 100,
+    "indoorWidth": 100,
+    "exposureTime": 18,
+    "environment_changes": [
+      {
+        "date": "20241027",
+        "environment": {
+          "lights": [],
+          "exposureTime": 12,
+          "name": "Indoor",
+          "type": "EnvironmentTypeEnum.indoor"
+        },
+        "changes": ["EnvironmentChangeType.new_setup"],
+        "_type": "environmentChanges",
+        "active": true
+      },
+      {
+        "date": "20241027",
+        "environment": {
+          "exposureTime": 18,
+          "name": "Indoor",
+          "type": "EnvironmentTypeEnum.indoor",
+          "lights": [{ "wattage": "250", "type": "LightingTypeEnum.led" }]
+        },
+        "original_environment": {
+          "lights": [],
+          "exposureTime": 12,
+          "name": "Indoor",
+          "type": "EnvironmentTypeEnum.indoor"
+        },
+        "changes": [
+          "EnvironmentChangeType.exposition_change",
+          "EnvironmentChangeType.new_light"
+        ],
+        "_type": "environmentChanges",
+        "active": true
+      }
+    ],
+    "indoorHeight": 200,
+    "lights": [{ "wattage": "250", "type": "LightingTypeEnum.led" }],
+    "updatedAt": { "_seconds": 1729984946, "_nanoseconds": 556000000 }
+  },
+  "events": {
+    "20250212": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20250212",
+          "stage": "germination"
+        }
+      ]
+    }
+  },
+  "lastUpdate": "20250212",
+  "photosCount": 0,
+  "strain": {},
+  "tree": {
+    "environmentMoves": [],
+    "stageChanges": [
+      { "date": "20250212", "from": "null", "to": "TreeStageEnum.germination" }
+    ],
+    "environment": { "name": "Indoor", "id": "PQyZJ8Xl27QzpVDnkZ93" },
+    "stage": "TreeStageEnum.germination",
+    "mediumDesc": null,
+    "name": "Unknown strain",
+    "mediumType": "null",
+    "weight": null,
+    "avatar": null,
+    "state": "TreeStateEnum.active",
+    "isClone": null,
+    "germinationDate": "20250212",
+    "stages": { "germination": "20250212" }
+  },
+  "user": { "lengthUnit": null, "temperatureUnit": null },
+  "views": 2
+}

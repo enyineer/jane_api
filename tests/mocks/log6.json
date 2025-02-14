@@ -1,0 +1,282 @@
+{
+  "age": 69785,
+  "environment": {
+    "indoorLength": null,
+    "indoorWidth": null,
+    "exposureTime": 24,
+    "environment_changes": [
+      {
+        "date": "20190906",
+        "changes": ["EnvironmentChangeType.new_setup"],
+        "environment": {
+          "exposureTime": 24,
+          "type": "EnvironmentTypeEnum.indoor",
+          "name": "Invernadero",
+          "lights": [{ "type": "LightingTypeEnum.led", "wattage": "320" }]
+        },
+        "_type": "environmentChanges",
+        "active": true
+      }
+    ],
+    "avatar": null,
+    "type": "EnvironmentTypeEnum.indoor",
+    "name": "Invernadero",
+    "lights": [{ "type": "LightingTypeEnum.led", "wattage": "320" }],
+    "indoorHeight": null
+  },
+  "events": {
+    "20180428": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20180428",
+          "stage": "germination"
+        },
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20180428",
+          "stage": "vegetative"
+        }
+      ]
+    },
+    "20180529": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20180529",
+          "stage": "flowering"
+        }
+      ],
+      "photos": [
+        {
+          "date": "20180529",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "source": "PhotoSourceEnum.url",
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["-Lo7P5N1diMzhpoDAMd-"],
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/N49PzY1QaLYZDzSVYsf4QEIlwGl1%2F1567804132305.jpg?alt=media&token=c3d258d1-1e52-4128-a30d-bfb0d2bbed8c",
+          "rrule": null,
+          "originalPath": "/data/user/0/com.unlogical.jane/files/1527609021044.png",
+          "id": "-Lo7P5EBFEdcLbCQvN_3"
+        },
+        {
+          "date": "20180529",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "source": "PhotoSourceEnum.url",
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["-Lo7P5N1diMzhpoDAMd-"],
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/N49PzY1QaLYZDzSVYsf4QEIlwGl1%2F1567804137850.png?alt=media&token=c614e093-4c71-4bed-af84-49eb29ddb3f0",
+          "rrule": null,
+          "originalPath": null,
+          "id": "-Lo7P5EBFEdcLbCQvN_5"
+        },
+        {
+          "date": "20180529",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "source": "PhotoSourceEnum.url",
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["-Lo7P5N1diMzhpoDAMd-"],
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/N49PzY1QaLYZDzSVYsf4QEIlwGl1%2F1570580452373.jpg?alt=media&token=90950e90-af83-49e5-ba95-85515a7dd3c2",
+          "rrule": null,
+          "originalPath": "/data/user/0/com.unlogical.jane/files/1527609055961.png",
+          "id": "-Lo7P5EC968kA1NP79w9"
+        },
+        {
+          "date": "20180529",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "source": "PhotoSourceEnum.url",
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["-Lo7P5N1diMzhpoDAMd-"],
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/N49PzY1QaLYZDzSVYsf4QEIlwGl1%2F1570580455624.jpg?alt=media&token=1720a48a-f641-4e2a-83c3-ad456006353c",
+          "rrule": null,
+          "id": "-Lo7P5EC968kA1NP79wA",
+          "originalPath": "/data/user/0/com.unlogical.jane/files/1527608987529.png"
+        }
+      ]
+    },
+    "20180530": {
+      "photos": [
+        {
+          "date": "20180530",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "source": "PhotoSourceEnum.url",
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["-Lo7P5N1diMzhpoDAMd-"],
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/N49PzY1QaLYZDzSVYsf4QEIlwGl1%2F1567804147513.jpg?alt=media&token=07a9ffd6-4e8a-4021-ac86-5f9ad7d5c3cf",
+          "rrule": null,
+          "originalPath": "/data/user/0/com.unlogical.jane/files/1527716917784.png",
+          "id": "-Lo7P5EC968kA1NP79w4"
+        },
+        {
+          "date": "20180530",
+          "note": null,
+          "environments": [],
+          "_type": "photos",
+          "mainTree": ["-Lo7P5N1diMzhpoDAMd-"],
+          "environmentsTrees": {},
+          "active": true,
+          "source": "PhotoSourceEnum.url",
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["-Lo7P5N1diMzhpoDAMd-"],
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/N49PzY1QaLYZDzSVYsf4QEIlwGl1%2F1570580437747.jpg?alt=media&token=4a64dd75-d5ac-4f0f-b0cc-8eb1b8900749",
+          "rrule": null,
+          "originalPath": "/data/user/0/com.unlogical.jane/files/1527717125945.png",
+          "id": "-Lo7P5EC968kA1NP79w5"
+        },
+        {
+          "date": "20180530",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "source": "PhotoSourceEnum.url",
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["-Lo7P5N1diMzhpoDAMd-"],
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/N49PzY1QaLYZDzSVYsf4QEIlwGl1%2F1570580458640.jpg?alt=media&token=d26a1971-6768-48da-9f11-5e8ed299d985",
+          "rrule": null,
+          "originalPath": "/data/user/0/com.unlogical.jane/files/1527717066442.png",
+          "id": "-Lo7P5EC968kA1NP79wB"
+        }
+      ]
+    },
+    "20180605": {
+      "photos": [
+        {
+          "date": "20180605",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "source": "PhotoSourceEnum.url",
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["-Lo7P5N1diMzhpoDAMd-"],
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/N49PzY1QaLYZDzSVYsf4QEIlwGl1%2F1567804144366.jpg?alt=media&token=64be9772-55de-4bcc-89cf-71fe37360b80",
+          "rrule": null,
+          "originalPath": "/data/user/0/com.unlogical.jane/files/1528188350389.png",
+          "id": "-Lo7P5EC968kA1NP79w3"
+        }
+      ]
+    },
+    "20180606": {
+      "reminders": [
+        {
+          "date": "20180606",
+          "environments": [],
+          "_type": "reminders",
+          "environmentsTrees": {},
+          "description": null,
+          "active": true,
+          "exclusions": [],
+          "type": "ReminderTypeEnum.repelent",
+          "isDone": true,
+          "trees": ["-Lo7P5N1diMzhpoDAMd-"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Repelent",
+          "hasRrule": false,
+          "logs": { "-Lo7P61SjUBUO8ZMNuyN": { "date": "20180606" } }
+        }
+      ]
+    },
+    "20190906": {
+      "environmentChanges": [
+        {
+          "date": "20190906",
+          "changes": ["EnvironmentChangeType.new_setup"],
+          "environment": {
+            "exposureTime": 24,
+            "type": "EnvironmentTypeEnum.indoor",
+            "name": "Invernadero",
+            "lights": [{ "type": "LightingTypeEnum.led", "wattage": "320" }]
+          },
+          "_type": "environmentChanges",
+          "active": true
+        }
+      ]
+    }
+  },
+  "lastUpdate": "20180428",
+  "photosCount": 8,
+  "strain": {
+    "breederId": "Elite_Seeds",
+    "breederName": "Elite Seeds",
+    "description": null,
+    "type": null,
+    "seedFinderId": "Solodiol_Clasica",
+    "strainClass": null,
+    "name": "Solodiol Clasica",
+    "strainSource": "StrainSourceEnum.seedFinder"
+  },
+  "tree": {
+    "strain": { "name": "Solodiol Clasica", "id": "-Lo7P5IyzzaCgwIlNDlU" },
+    "stageChanges": [
+      { "date": "20180428", "from": "null", "to": "TreeStageEnum.germination" },
+      {
+        "date": "20180428",
+        "from": "TreeStageEnum.germination",
+        "to": "TreeStageEnum.vegetative"
+      },
+      {
+        "date": "20180529",
+        "from": "TreeStageEnum.vegetative",
+        "to": "TreeStageEnum.flowering"
+      }
+    ],
+    "environmentMoves": [],
+    "weight": null,
+    "avatar": {
+      "source": "PhotoSourceEnum.url",
+      "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/N49PzY1QaLYZDzSVYsf4QEIlwGl1%2F1570580437747.jpg?alt=media&token=4a64dd75-d5ac-4f0f-b0cc-8eb1b8900749",
+      "id": "-Lo7P5EC968kA1NP79w5"
+    },
+    "environment": { "name": "Invernadero", "id": "-Lo7P5EqBsO0fBVIAl-W" },
+    "stage": "TreeStageEnum.vegetative",
+    "mediumDesc": null,
+    "name": "Solodiol Clásica eLite S. 28ABR",
+    "mediumType": "null",
+    "state": "TreeStateEnum.active",
+    "germinationDate": "20180428",
+    "vegetativeDate": "20180428",
+    "floweringDate": "20180529",
+    "stages": {
+      "germination": "20180428",
+      "vegetative": "20180428",
+      "flowering": "20180529"
+    }
+  },
+  "user": { "lengthUnit": null, "temperatureUnit": null },
+  "views": 4
+}

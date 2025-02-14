@@ -51,6 +51,9 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# Ruff
+.ruff_cache/
+
 # Translations
 *.mo
 *.pot
@@ -118,9 +121,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# VS Code
-.vscode/
-
 # macOS
 .DS_Store
 
@@ -130,4 +130,5 @@ dmypy.json
 # Jane API
 jane_api/__pycache__/
 tests/__pycache__/
-tests/mocks/
+
+.pypirc
