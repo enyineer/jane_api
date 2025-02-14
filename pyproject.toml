@@ -16,11 +16,20 @@ description = "A very basic API Client for growithjane.com"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
-    "Programming Language :: Python :: 3",
-    "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
 ]
-license = "MIT"
-license-files = ["LICEN[CS]E*"]
+license = { file = "LICENSE.md" }
+dependencies = [
+  "pydantic",
+  "requests"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest",
+  "ruff"
+]
 
 [project.urls]
 Homepage = "https://github.com/enyineer/jane_api"
