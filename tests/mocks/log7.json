@@ -1,0 +1,1235 @@
+{
+  "age": 9515,
+  "events": {
+    "20200901": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20200901",
+          "stage": "germination"
+        }
+      ]
+    },
+    "20200908": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20200908",
+          "stage": "vegetative"
+        }
+      ]
+    },
+    "20200918": {
+      "photos": [
+        {
+          "date": "20200918",
+          "note": null,
+          "environments": [],
+          "mainTree": ["eRIPzqdPyKsErpbu7X7z"],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "fcpi3VdTdUTLTP4K4lH3",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401600439661017.jpg?alt=media&token=5f749739-eeb6-4112-8a0a-2a631a343062",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20200918",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "kkg38pTpVMxppJWlWLUn",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401600439643219.jpg?alt=media&token=d49ffab4-a414-4443-9660-b2c43faa647b",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20200920": {
+      "photos": [
+        {
+          "date": "20200920",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "eYSWtVT6RrRFEYcvmn1i",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401600639243856.jpg?alt=media&token=a7fd5d74-3b84-401c-9fad-3044aa52c22f",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "treeLogs": [
+        {
+          "date": "20200920",
+          "note": "Regadas con micorrizas",
+          "environments": [],
+          "values": {},
+          "_type": "treeLogs",
+          "active": true,
+          "environmentsTrees": {},
+          "trees": [
+            "sOEKv3C0irbwtgj043Zk",
+            "eRIPzqdPyKsErpbu7X7z",
+            "xps4xr99RgmXWmIGbz4I"
+          ],
+          "rrule": null,
+          "ignoredTrees": ["sOEKv3C0irbwtgj043Zk"]
+        }
+      ]
+    },
+    "20200922": {
+      "photos": [
+        {
+          "date": "20200922",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "xr9tO7D7O4pQ8O1Khipv",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401600772524235.jpg?alt=media&token=1a1adb7e-86ac-4fda-92ba-5d18bb11a737",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20200927": {
+      "photos": [
+        {
+          "date": "20200927",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "A097yJfJjz7D01iS1i7B",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401601217981518.jpg?alt=media&token=88e2eae4-7a99-4fc9-960b-d5ee69e0e786",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20201011": {
+      "photos": [
+        {
+          "date": "20201011",
+          "note": null,
+          "environments": ["tbBv76eyQRUZ7w5dI5xc"],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {
+            "tbBv76eyQRUZ7w5dI5xc": [
+              "eRIPzqdPyKsErpbu7X7z",
+              "sOEKv3C0irbwtgj043Zk",
+              "svTMf0LIinR9x4fUZJhX",
+              "xps4xr99RgmXWmIGbz4I"
+            ]
+          },
+          "type": "null",
+          "rrule": null,
+          "originalPath": null,
+          "id": "yssIUgYoj5e3FwuYqb6E",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401602425486103.jpg?alt=media&token=616a9c46-def5-4104-98ba-a3e6bfd65766",
+          "source": "PhotoSourceEnum.url",
+          "trees": [
+            "eRIPzqdPyKsErpbu7X7z",
+            "sOEKv3C0irbwtgj043Zk",
+            "xps4xr99RgmXWmIGbz4I"
+          ]
+        },
+        {
+          "date": "20201011",
+          "note": null,
+          "environments": ["tbBv76eyQRUZ7w5dI5xc"],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {
+            "tbBv76eyQRUZ7w5dI5xc": [
+              "eRIPzqdPyKsErpbu7X7z",
+              "sOEKv3C0irbwtgj043Zk",
+              "svTMf0LIinR9x4fUZJhX",
+              "xps4xr99RgmXWmIGbz4I"
+            ]
+          },
+          "active": true,
+          "type": "null",
+          "rrule": null,
+          "originalPath": null,
+          "id": "z4ekwOmajhcap185cvFi",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401602425450349.jpg?alt=media&token=4ce89f7c-9ad4-48f1-a1a7-625e35607155",
+          "source": "PhotoSourceEnum.url",
+          "trees": [
+            "eRIPzqdPyKsErpbu7X7z",
+            "sOEKv3C0irbwtgj043Zk",
+            "xps4xr99RgmXWmIGbz4I"
+          ]
+        }
+      ]
+    },
+    "20201017": {
+      "photos": [
+        {
+          "date": "20201017",
+          "note": "30 cm.aprox riegos intercalados con bio bloom",
+          "environments": ["tbBv76eyQRUZ7w5dI5xc"],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {
+            "tbBv76eyQRUZ7w5dI5xc": [
+              "eRIPzqdPyKsErpbu7X7z",
+              "sOEKv3C0irbwtgj043Zk",
+              "svTMf0LIinR9x4fUZJhX",
+              "xps4xr99RgmXWmIGbz4I"
+            ]
+          },
+          "active": true,
+          "type": "null",
+          "rrule": null,
+          "id": "0rK6Dd4LSb51vEura7LR",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401602943399418.jpg?alt=media&token=d40d8472-4626-4d2f-bf24-b2916f070d8a",
+          "source": "PhotoSourceEnum.url",
+          "trees": [
+            "eRIPzqdPyKsErpbu7X7z",
+            "sOEKv3C0irbwtgj043Zk",
+            "xps4xr99RgmXWmIGbz4I"
+          ]
+        },
+        {
+          "date": "20201017",
+          "note": "26 cm aprox riegos intercalados con bio bloom",
+          "environments": ["tbBv76eyQRUZ7w5dI5xc"],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {
+            "tbBv76eyQRUZ7w5dI5xc": [
+              "eRIPzqdPyKsErpbu7X7z",
+              "sOEKv3C0irbwtgj043Zk",
+              "svTMf0LIinR9x4fUZJhX",
+              "xps4xr99RgmXWmIGbz4I"
+            ]
+          },
+          "type": "null",
+          "rrule": null,
+          "id": "cvwDnzaaBuKLX4mz4rvn",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401602943309568.jpg?alt=media&token=267c907f-30ad-4c2c-a61a-43b7f9170338",
+          "source": "PhotoSourceEnum.url",
+          "trees": [
+            "eRIPzqdPyKsErpbu7X7z",
+            "sOEKv3C0irbwtgj043Zk",
+            "xps4xr99RgmXWmIGbz4I"
+          ]
+        },
+        {
+          "date": "20201017",
+          "note": "Lst en primera fase",
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "nkRwdha1l5qVmkbEbHap",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401602944248825.jpg?alt=media&token=19a05a14-9c5e-4f8e-bd1d-21abc32dc930",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20201017",
+          "note": "30 cm.aprox riegos intercalados con bio bloom",
+          "environments": ["tbBv76eyQRUZ7w5dI5xc"],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {
+            "tbBv76eyQRUZ7w5dI5xc": [
+              "eRIPzqdPyKsErpbu7X7z",
+              "sOEKv3C0irbwtgj043Zk",
+              "svTMf0LIinR9x4fUZJhX",
+              "xps4xr99RgmXWmIGbz4I"
+            ]
+          },
+          "type": "null",
+          "rrule": null,
+          "originalPath": null,
+          "id": "peWCOWNIrWbpX3MnwjDE",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401602943406054.jpg?alt=media&token=80c178f6-225e-4151-b8ed-6708acdeb3cc",
+          "source": "PhotoSourceEnum.url",
+          "trees": [
+            "eRIPzqdPyKsErpbu7X7z",
+            "sOEKv3C0irbwtgj043Zk",
+            "xps4xr99RgmXWmIGbz4I"
+          ]
+        }
+      ]
+    },
+    "20201021": {
+      "photos": [
+        {
+          "date": "20201021",
+          "note": null,
+          "environments": [],
+          "_type": "photos",
+          "mainTree": ["eRIPzqdPyKsErpbu7X7z"],
+          "active": true,
+          "environmentsTrees": {},
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "IQUxj0N1Meh3HEgWshby",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401603320981515.jpg?alt=media&token=adedaee1-dfe2-476d-a6a7-ebb84cb21d21",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20201021",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "f9Yt3KbKFWYM8tmlgkm1",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401603321014299.jpg?alt=media&token=ebeb4412-8276-4333-8c47-02cabd9a7487",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20201028": {
+      "photos": [
+        {
+          "date": "20201028",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "RTJ7uxNbUJeM4jRQfOBt",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401603921601631.jpg?alt=media&token=6dc9ec4f-b66d-4e92-95e6-5122bac752f3",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20201202": {
+      "photos": [
+        {
+          "date": "20201202",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "JzvW6mJifwmFMKa1zQyI",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401606962631677.jpg?alt=media&token=bf271978-91ef-4c79-a879-050f6251d903",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20201202",
+          "note": "Tiene apical al 8 nudo y transplante a maceta definitiva, ya el lst tiene4 a 6 puntas apicales , evaluando una eventual apical a cada brazo",
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "R9RaWnqahKaX2IDqMDCh",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401606962625976.jpg?alt=media&token=5c1e9b15-4a89-4956-a850-12d3aa691b4c",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "reminders": [
+        {
+          "date": "20201008",
+          "environments": [],
+          "_type": "reminders",
+          "environmentsTrees": {},
+          "description": null,
+          "exclusions": [],
+          "type": "ReminderTypeEnum.training",
+          "isDone": false,
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": {
+            "period": 5,
+            "limitType": "LimitTypeEnum.stage",
+            "frequency": "FrequencyEnum.daily",
+            "weeklyDays": [],
+            "limitTimes": 1,
+            "limitStage": "TreeStageEnum.vegetative",
+            "limitDate": "2020-10-07 22:54:22.137407"
+          },
+          "notificationTime": "19:0",
+          "futureExclusions": [],
+          "name": "Entrenamiento",
+          "hasRrule": true,
+          "training_type": "TrainingTypeEnum.lst",
+          "logs": {
+            "YuI3axI0Wkxs9kexFkUx": { "date": "20201207" },
+            "DyeKuzLO1He33wPRRQjl": { "date": "20210312" },
+            "1Xle0naLM6SUMnRpBNSu": { "date": "20201202" }
+          },
+          "updatedAt": { "_seconds": 1615586561, "_nanoseconds": 559000000 },
+          "active": false
+        }
+      ]
+    },
+    "20201207": {
+      "reminders": [
+        {
+          "date": "20201008",
+          "environments": [],
+          "_type": "reminders",
+          "environmentsTrees": {},
+          "description": null,
+          "exclusions": [],
+          "type": "ReminderTypeEnum.training",
+          "isDone": false,
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": {
+            "period": 5,
+            "limitType": "LimitTypeEnum.stage",
+            "frequency": "FrequencyEnum.daily",
+            "weeklyDays": [],
+            "limitTimes": 1,
+            "limitStage": "TreeStageEnum.vegetative",
+            "limitDate": "2020-10-07 22:54:22.137407"
+          },
+          "notificationTime": "19:0",
+          "futureExclusions": [],
+          "name": "Entrenamiento",
+          "hasRrule": true,
+          "training_type": "TrainingTypeEnum.lst",
+          "logs": {
+            "YuI3axI0Wkxs9kexFkUx": { "date": "20201207" },
+            "DyeKuzLO1He33wPRRQjl": { "date": "20210312" },
+            "1Xle0naLM6SUMnRpBNSu": { "date": "20201202" }
+          },
+          "updatedAt": { "_seconds": 1615586561, "_nanoseconds": 559000000 },
+          "active": false
+        }
+      ],
+      "photos": [
+        {
+          "date": "20201207",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "vAVE3BgoHkiVLxbnMEWO",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401607654844876.jpg?alt=media&token=1510efba-8fcd-42a5-af19-7ff3449e7db7",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20210112": {
+      "photos": [
+        {
+          "date": "20210112",
+          "note": "Full lst",
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "XTA6AGLF5ZStuDg3unMA",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401610469288878.jpg?alt=media&token=ea8f9890-d67f-4837-9a7c-4e818b0d357d",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210112",
+          "note": "Full lst",
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "assk7fYSy9MqmD9hXnay",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401610469282825.jpg?alt=media&token=2e550b8f-f738-4292-a843-ef5e1810d53a",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210112",
+          "note": "Full lst",
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "mO5nxOYG5aW7GygYrOT5",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401610469294957.jpg?alt=media&token=5cfd2e1d-d839-4aaf-af5f-5eb1b18a0ea6",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20210121": {
+      "photos": [
+        {
+          "date": "20210121",
+          "note": null,
+          "environments": ["tbBv76eyQRUZ7w5dI5xc"],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {
+            "tbBv76eyQRUZ7w5dI5xc": ["eRIPzqdPyKsErpbu7X7z"]
+          },
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "R9VrNVay9uSCVENZApe5",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401611279062575.jpg?alt=media&token=05db5b7d-dd24-4a95-8b12-739737562e87",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210121",
+          "note": null,
+          "environments": ["tbBv76eyQRUZ7w5dI5xc"],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {
+            "tbBv76eyQRUZ7w5dI5xc": ["eRIPzqdPyKsErpbu7X7z"]
+          },
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "Rse8yO114tPIYptYUOAp",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401612639134961.jpg?alt=media&token=ab63d74d-2341-4639-b5df-79eabe508a96",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20210206": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20210206",
+          "stage": "flowering"
+        }
+      ],
+      "photos": [
+        {
+          "date": "20210206",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "0znXeUgmJtdYKezRFZuD",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401612639313552.jpg?alt=media&token=bea8d69c-ae50-4ff3-824a-4ca3ad37ca3c",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210206",
+          "note": null,
+          "environments": [],
+          "_type": "photos",
+          "mainTree": ["eRIPzqdPyKsErpbu7X7z"],
+          "active": true,
+          "environmentsTrees": {},
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "2dMwI4nHYFT6latrG7LF",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401612639384128.jpg?alt=media&token=85a4b94d-d7ab-47b6-8cc0-169c8d73fc25",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210206",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "4tmxi3AFsQKjzMmRnyKs",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401612639319724.jpg?alt=media&token=295c08e3-d5f0-4ae0-b098-46b4fa40c832",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210206",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "HhomLCq5HyXxLrchEzjs",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401612639324924.jpg?alt=media&token=6e13b8fd-1c83-4c0b-922e-f9ec45052d9e",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210206",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "eL5q01phaAjz59XbtGdv",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401612639306487.jpg?alt=media&token=ce04324f-1319-4d42-8586-6812c16360d5",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "treeLogs": [
+        {
+          "date": "20210206",
+          "note": "En prefloracion aun con dosis de fish mix en menos cantidad y aumentando las dosis de bio bloom",
+          "environments": [],
+          "values": {
+            "ph": { "max": null, "unit": null, "min": null, "value": 6 }
+          },
+          "_type": "treeLogs",
+          "environmentsTrees": {},
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "active": false
+        }
+      ]
+    },
+    "20210312": {
+      "photos": [
+        {
+          "date": "20210312",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "43sNheiOR6v4GDuZYAMW",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401615586560489.jpg?alt=media&token=95cefa80-7e47-4ddb-b13c-7a771f62e405",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210312",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "D0zsHvS2URRkTObNescs",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401615586565608.jpg?alt=media&token=4ddc99f9-12d6-4d97-beed-44e15c200d67",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210312",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "LIIu4aTAJaMBM0MOILQW",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401615586570538.jpg?alt=media&token=6b0bc4b8-70bb-417e-bd56-fb885a71b8ee",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210312",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "ef0kWNPZ6bEQyO1v7hqg",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401615586576255.jpg?alt=media&token=032903b2-4151-469d-88c5-440d011a912e",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210312",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "mtITMZsvPQPXKwWrPDP3",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401615586581351.jpg?alt=media&token=6c5222d7-b2b7-49b6-9cb8-08aafa2e19bd",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210312",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "oCAPqZxKvpmk3vcD00H8",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401615586554446.jpg?alt=media&token=d2e4063f-2876-42c6-9581-23ceac33d6b3",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210312",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "xN6jR1a318G8FdFBb17v",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401615586587290.jpg?alt=media&token=c0357eea-a53f-4e37-8cc3-67394e625112",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210312",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "zpcTlhfDwGbLQYByBqgZ",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401615586592766.jpg?alt=media&token=dd954ddc-1029-425d-892f-69287481c711",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "reminders": [
+        {
+          "date": "20201008",
+          "environments": [],
+          "_type": "reminders",
+          "environmentsTrees": {},
+          "description": null,
+          "exclusions": [],
+          "type": "ReminderTypeEnum.training",
+          "isDone": false,
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": {
+            "period": 5,
+            "limitType": "LimitTypeEnum.stage",
+            "frequency": "FrequencyEnum.daily",
+            "weeklyDays": [],
+            "limitTimes": 1,
+            "limitStage": "TreeStageEnum.vegetative",
+            "limitDate": "2020-10-07 22:54:22.137407"
+          },
+          "notificationTime": "19:0",
+          "futureExclusions": [],
+          "name": "Entrenamiento",
+          "hasRrule": true,
+          "training_type": "TrainingTypeEnum.lst",
+          "logs": {
+            "YuI3axI0Wkxs9kexFkUx": { "date": "20201207" },
+            "DyeKuzLO1He33wPRRQjl": { "date": "20210312" },
+            "1Xle0naLM6SUMnRpBNSu": { "date": "20201202" }
+          },
+          "updatedAt": { "_seconds": 1615586561, "_nanoseconds": 559000000 },
+          "active": false
+        }
+      ]
+    },
+    "20210330": {
+      "reminders": [
+        {
+          "date": "20210330",
+          "environments": [],
+          "_type": "reminders",
+          "environmentsTrees": {},
+          "description": null,
+          "exclusions": [],
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": null,
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Nutrientes",
+          "hasRrule": false,
+          "logs": { "Yn7OrqvuDeC0DfpN7Qtl": { "date": "20210330" } },
+          "application_method": "ApplicationMethodEnum.liquid",
+          "mixes": [
+            {
+              "amount": { "unit": "VolumeUnitEnum.litre", "value": "2.0" },
+              "nutrient": {
+                "producerName": null,
+                "description": null,
+                "name": "bloombastic",
+                "logo": null,
+                "id": null,
+                "producerId": null
+              },
+              "solvent": { "unit": "VolumeUnitEnum.litre", "value": "3.0" }
+            }
+          ],
+          "updatedAt": { "_seconds": 1617151579, "_nanoseconds": 918000000 },
+          "active": false
+        }
+      ],
+      "photos": [
+        {
+          "date": "20210330",
+          "note": "",
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "8lrEqeqQev08hoQcln8u",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401617151468160.jpg?alt=media&token=71a2934d-d336-4b87-bc9f-6d47dbbb2d8d",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210330",
+          "note": "",
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "aiQfyA3Fz2L05fIidBP0",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401617151472138.jpg?alt=media&token=fc8b4aea-80c5-42d3-b2c9-dc633cdc7db3",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210330",
+          "note": "",
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "cexHBQwArjzLyPzJ50De",
+          "originalPath": null,
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401617151463195.jpg?alt=media&token=a2cfbe08-9254-434b-b7d9-d0e460c0c91d",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20210412": {
+      "photos": [
+        {
+          "date": "20210412",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "7O1VZWVGJJHESn5btdgs",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401618268289437.jpg?alt=media&token=9cf9818b-2528-42b2-8847-846b55203824",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210412",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "LDCHuKcruqTdLQXzdEuZ",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401618268248240.jpg?alt=media&token=ff16eef7-edd8-4091-8232-a811f5903ebb",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20210412",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "environmentsTrees": {},
+          "active": true,
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "originalPath": null,
+          "id": "gTzlk6PXaKkYheRUy101",
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401618268298934.jpg?alt=media&token=0673f695-b11f-4a71-b612-e3fc9214a6bd",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20210415": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20210415",
+          "stage": "drying"
+        }
+      ]
+    },
+    "20210417": {
+      "reminders": [
+        {
+          "date": "20210122",
+          "application_method": "ApplicationMethodEnum.liquid",
+          "environments": [],
+          "_type": "reminders",
+          "description": "Una ves con mico y la otra con fish",
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.nutrients",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "isDone": false,
+          "rrule": {
+            "period": 2,
+            "limitType": "LimitTypeEnum.forever",
+            "frequency": "FrequencyEnum.daily",
+            "weeklyDays": [],
+            "limitTimes": 1,
+            "limitStage": "TreeStageEnum.germination",
+            "limitDate": "2021-01-21 22:25:02.785562"
+          },
+          "notificationTime": "21:0",
+          "futureExclusions": [],
+          "name": "Nutrientes",
+          "hasRrule": true,
+          "mixes": [
+            {
+              "amount": { "unit": "VolumeUnitEnum.milliLitre", "value": "2.0" },
+              "nutrient": {
+                "producerName": null,
+                "description": null,
+                "name": "fish mix",
+                "logo": null,
+                "id": null,
+                "producerId": null
+              },
+              "solvent": { "unit": "VolumeUnitEnum.litre", "value": "3.0" }
+            },
+            {
+              "amount": { "unit": "VolumeUnitEnum.milliLitre", "value": "2.0" },
+              "nutrient": {
+                "producerName": null,
+                "description": null,
+                "name": "fish mix",
+                "logo": null,
+                "producerId": null,
+                "id": null
+              },
+              "solvent": { "unit": "VolumeUnitEnum.litre", "value": "3.0" }
+            }
+          ],
+          "logs": { "LQsF5CXvBUTxavUDFyTG": { "date": "20210417" } },
+          "updatedAt": { "_seconds": 1618268159, "_nanoseconds": 292000000 },
+          "active": false
+        }
+      ]
+    },
+    "20210430": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20210430",
+          "stage": "curing"
+        }
+      ]
+    },
+    "20241125": {
+      "photos": [
+        {
+          "environments": [],
+          "mainTree": [],
+          "date": "20241125",
+          "note": "Fumada en 2021. Exelente cepa",
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "9F77LAJeTjCuZ3NLUkcm",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1732583944, "_nanoseconds": 269796000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401732583968845.jpg?alt=media&token=93f5c14f-1f4f-4be6-9790-7ac3cac7343e",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "environments": [],
+          "mainTree": [],
+          "date": "20241125",
+          "note": "Fumada en 2021. Exelente cepa",
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "el7tK2S3aSkfpn68zL77",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1732583945, "_nanoseconds": 269796000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401732583974967.jpg?alt=media&token=cbf20eec-b840-4ae2-b670-c8f3fa6c0ec1",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "environments": [],
+          "date": "20241125",
+          "note": null,
+          "_type": "photos",
+          "mainTree": ["eRIPzqdPyKsErpbu7X7z"],
+          "active": true,
+          "environmentsTrees": {},
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "hGeL0u7g9v10F4MTCjUO",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1732583981, "_nanoseconds": 366112000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401732583982458.jpg?alt=media&token=609d9782-19cc-4b5e-8369-699d20eb2bb6",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "environments": [],
+          "mainTree": [],
+          "date": "20241125",
+          "note": "Fumada en 2021. Exelente cepa",
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "jXJWko9zLoB9ct75RCO0",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1732583942, "_nanoseconds": 269796000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401732757254321.jpg?alt=media&token=25e88c36-e87c-4b68-a5a4-5d57e14cd6b0",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "environments": [],
+          "mainTree": [],
+          "date": "20241125",
+          "note": "Fumada en 2021. Exelente cepa",
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "pX13RJpj4kzsMw8HgG7P",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1732583943, "_nanoseconds": 269796000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401732757249480.jpg?alt=media&token=d48114d9-10fb-44f2-8352-2586b100b3b1",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "environments": [],
+          "mainTree": [],
+          "date": "20241125",
+          "note": "Fumada en 2021. Exelente cepa",
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["eRIPzqdPyKsErpbu7X7z"],
+          "rrule": null,
+          "id": "y7z9BkUBw2LMoNDlJSJk",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1732583946, "_nanoseconds": 269796000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401732757258624.jpg?alt=media&token=1421ba38-6a0b-4b7e-a9df-46bd8e70be59",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    }
+  },
+  "lastUpdate": "20241125",
+  "photosCount": 47,
+  "strain": {
+    "breederId": null,
+    "breederName": null,
+    "description": "100% indica",
+    "type": "seeds.type.Feminized",
+    "seedFinderId": null,
+    "strainClass": "seeds.class.indica",
+    "name": "Gorilla lemon",
+    "strainSource": "StrainSourceEnum.user"
+  },
+  "tree": {
+    "strain": { "name": "Gorilla lemon", "id": "I7oqwOmdCqzcKNi6ae2G" },
+    "environmentMoves": [],
+    "weight": null,
+    "environment": { "name": "Invernadero", "id": "tbBv76eyQRUZ7w5dI5xc" },
+    "mediumDesc": "",
+    "name": "Gorilla lemon",
+    "mediumType": "null",
+    "stage": "TreeStageEnum.curing",
+    "isClone": false,
+    "avatar": {
+      "id": "hGeL0u7g9v10F4MTCjUO",
+      "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/BAUH0yMud7RXr74lPPDuPuhl6U53%2Fimg%401732583982458.jpg?alt=media&token=609d9782-19cc-4b5e-8369-699d20eb2bb6",
+      "source": "PhotoSourceEnum.url"
+    },
+    "stageChanges": [
+      { "date": "20200901", "from": "null", "to": "TreeStageEnum.germination" },
+      {
+        "date": "20200908",
+        "from": "TreeStageEnum.seedling",
+        "to": "TreeStageEnum.vegetative"
+      },
+      {
+        "date": "20210206",
+        "from": "TreeStageEnum.vegetative",
+        "to": "TreeStageEnum.flowering"
+      },
+      {
+        "date": "20210415",
+        "from": "TreeStageEnum.flowering",
+        "to": "TreeStageEnum.drying"
+      },
+      {
+        "date": "20210430",
+        "from": "TreeStageEnum.drying",
+        "to": "TreeStageEnum.curing"
+      }
+    ],
+    "archiveDate": "20241125",
+    "state": "TreeStateEnum.archived",
+    "updatedAt": { "_seconds": 1732584069, "_nanoseconds": 347000000 },
+    "germinationDate": "20200901",
+    "vegetativeDate": "20200908",
+    "floweringDate": "20210206",
+    "dryingDate": "20210415",
+    "curingDate": "20210430",
+    "stages": {
+      "germination": "20200901",
+      "vegetative": "20200908",
+      "flowering": "20210206",
+      "drying": "20210415",
+      "curing": "20210430"
+    }
+  },
+  "user": { "lengthUnit": null, "temperatureUnit": null },
+  "views": 898
+}

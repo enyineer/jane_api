@@ -1,0 +1,27 @@
+[tool.pytest.ini_options] 
+testpaths = ["tests"] 
+pythonpath = ['.']
+
+[tool.ruff]
+indent-width = 2
+line-length = 100
+
+[project]
+name = "jane_api"
+version = "0.0.1"
+authors = [
+  { name="enyineer", email="hi@enking.dev" },
+]
+description = "A very basic API Client for growithjane.com"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/enyineer/jane_api"
+Issues = "https://github.com/enyineer/jane_api/issues"

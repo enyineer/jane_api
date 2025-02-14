@@ -1,0 +1,3223 @@
+{
+  "age": 9014,
+  "events": {
+    "20231114": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20231114",
+          "stage": "germination"
+        }
+      ]
+    },
+    "20231118": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20231118",
+          "stage": "seedling"
+        }
+      ],
+      "photos": [
+        {
+          "date": "20231118",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "XvsLjlhIrRbFQqWG2X47",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1700322226, "_nanoseconds": 195370000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401700322230640.jpg?alt=media&token=a3d38ff9-2283-4fe7-a0c2-5326b04dfa19",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "treeLogs": [
+        {
+          "date": "20231118",
+          "note": null,
+          "rrule": null,
+          "environments": [],
+          "values": {
+            "height": {
+              "unit": "LengthEnum.centimeter",
+              "min": null,
+              "max": null,
+              "value": 5
+            }
+          },
+          "_type": "treeLogs",
+          "environmentsTrees": {},
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "active": false
+        }
+      ]
+    },
+    "20231119": {
+      "photos": [
+        {
+          "date": "20231119",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "7yhpL5G7YA0kFoK7fV1k",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1700394370, "_nanoseconds": 281561000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401700394375831.jpg?alt=media&token=752a4ce8-32b4-4094-bada-5935feef6046",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231120": {
+      "photos": [
+        {
+          "date": "20231120",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "7chk6d2X1Q6rDt5QdRe2",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1700512562, "_nanoseconds": 619888000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401700512565879.jpg?alt=media&token=208fab1a-b534-429b-9f9c-4590108d0e8c",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231120",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "QsWOBa12sJHkYAIRHqbZ",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1700512576, "_nanoseconds": 271186000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401700512578801.jpg?alt=media&token=d61876a2-31b6-43d9-8db5-2f5b3034bc19",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231121": {
+      "photos": [
+        {
+          "date": "20231121",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "HhDLwLWlzrNfc5jTBJP9",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1700570281, "_nanoseconds": 631562000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401700570286457.jpg?alt=media&token=aca84c88-a74e-43a3-92d0-828a1492f91a",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231123": {
+      "photos": [
+        {
+          "date": "20231123",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "37GLiJ7zPx6DhOfUmxHB",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1700738708, "_nanoseconds": 281274000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401700738721933.jpg?alt=media&token=9766ea0b-036d-4af4-bb7d-e06176e15445",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231123",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "GL59vNFPeDTZZNCgCEGL",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1700738719, "_nanoseconds": 252268000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401700738725519.jpg?alt=media&token=e8ad8cbc-0a53-45a4-91e3-71382e75c61a",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "reminders": [
+        {
+          "date": "20231123",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Wasser",
+          "hasRrule": false,
+          "logs": {
+            "xa3TVxjRzFLMqq7DzRYI": {
+              "date": "20231123",
+              "timestamp": { "_seconds": 1700771026, "_nanoseconds": 814636000 }
+            }
+          },
+          "timestamp": { "_seconds": 1700771026, "_nanoseconds": 148502000 },
+          "active": false
+        }
+      ]
+    },
+    "20231125": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20231125",
+          "stage": "vegetative"
+        }
+      ],
+      "reminders": [
+        {
+          "date": "20231125",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Nährstoffe",
+          "hasRrule": false,
+          "logs": {
+            "WiRxR3ZDD6ws5UNDvTEn": {
+              "date": "20231125",
+              "timestamp": { "_seconds": 1700946268, "_nanoseconds": 441099000 }
+            }
+          },
+          "timestamp": { "_seconds": 1700946267, "_nanoseconds": 467492000 },
+          "active": false
+        },
+        {
+          "date": "20231125",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Wasser",
+          "hasRrule": false,
+          "logs": {
+            "hDusvFuXk91TrJZyY8rZ": {
+              "date": "20231125",
+              "timestamp": { "_seconds": 1700946270, "_nanoseconds": 166761000 }
+            }
+          },
+          "timestamp": { "_seconds": 1700946267, "_nanoseconds": 467492000 },
+          "active": false
+        }
+      ],
+      "photos": [
+        {
+          "date": "20231125",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "K6UvC2SZVQm9JxHtmSP8",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1700933244, "_nanoseconds": 64378000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401700933259103.jpg?alt=media&token=a0717f73-b52e-4f6c-ab57-1c5574c2663a",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231125",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "eK8wlf2N7QF9ny4B1xRx",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1700933255, "_nanoseconds": 895683000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401700933262263.jpg?alt=media&token=61ec98ea-7d4b-4531-8f0b-b728877a7e4d",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231126": {
+      "photos": [
+        {
+          "date": "20231126",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "Ue2RV26IMccFIKZv900r",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701004257, "_nanoseconds": 244998000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701004271268.jpg?alt=media&token=619ad511-2a53-427d-bbf7-8cb40d1ae45f",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231126",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "fUlvabXgrsdEyaJDRTYa",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701033726, "_nanoseconds": 260449000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701033728248.jpg?alt=media&token=f55bd381-6844-4749-92df-d1bc71dfc34f",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231126",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "mluwq4wqDO9VC1lukzZA",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701004268, "_nanoseconds": 489126000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701004273766.jpg?alt=media&token=71661e6c-94e2-436b-b35f-cec220b8374e",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231127": {
+      "photos": [
+        {
+          "date": "20231127",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "vAzZ9q7reE1vvshNG4hj",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701069061, "_nanoseconds": 952943000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701069088251.jpg?alt=media&token=eafa14b2-260f-4b13-b890-7a7925d21a4f",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231127",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "yP1BOHGo6u2x7aEYDlRn",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701069051, "_nanoseconds": 124054000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701069065614.jpg?alt=media&token=fce249e4-eb58-4ba5-90fa-423b001eea84",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231129": {
+      "photos": [
+        {
+          "date": "20231129",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "14caeUCpst4zhnMaLQI4",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701212654, "_nanoseconds": 22408000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701212671872.jpg?alt=media&token=aff2d147-f48c-4dff-b586-7bef78d4e24c",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231129",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "bBXC7FYYw0T4kPl99X2P",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701291533, "_nanoseconds": 540075000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701291539632.jpg?alt=media&token=76e300cc-67ff-49d2-97fd-a7bdba8b0e2b",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231129",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "hHpbJzbzGm18iNkFFMUb",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701212668, "_nanoseconds": 751325000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701212674586.jpg?alt=media&token=1918efb1-b0d5-4c42-90a7-c2490793574d",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231129",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "w7FZ9EgYM06mlzYhrwoF",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701291520, "_nanoseconds": 853575000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701291536710.jpg?alt=media&token=7e0a622d-467c-4552-8799-211a283fee9e",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231130": {
+      "reminders": [
+        {
+          "date": "20231130",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "type": "ReminderTypeEnum.trim",
+          "isDone": false,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "name": "Zuschneiden",
+          "trim_type": "TrimTypeEnum.topping",
+          "notificationTime": "11:0",
+          "hasRrule": true,
+          "rrule": {
+            "weeklyDays": [],
+            "period": 15,
+            "limitTimes": 1,
+            "limitStage": "TreeStageEnum.vegetative",
+            "limitDate": "2023-12-02 23:58:58.078152",
+            "limitType": "LimitTypeEnum.stage",
+            "frequency": "FrequencyEnum.daily"
+          },
+          "logs": {
+            "b8O4n7lSasMouTWjeAIl": {
+              "date": "20231130",
+              "timestamp": { "_seconds": 1702056392, "_nanoseconds": 352948000 }
+            }
+          },
+          "timestamp": { "_seconds": 1702056392, "_nanoseconds": 352948000 },
+          "exclusions": ["20231230", "20240114"],
+          "futureExclusions": ["20240129"],
+          "updatedAt": { "_seconds": 1704955970, "_nanoseconds": 939000000 },
+          "active": false
+        }
+      ]
+    },
+    "20231201": {
+      "photos": [
+        {
+          "date": "20231201",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "OneMbbSKYZnEppXEMrFZ",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701465981, "_nanoseconds": 176432000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701465986130.jpg?alt=media&token=723878d5-753e-40a3-875b-c4dbf6189811",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231201",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "cPzLViEBDIBM551DGyoC",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701465966, "_nanoseconds": 483431000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701465989274.jpg?alt=media&token=66fac219-9c8b-4786-b182-097d25c69759",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231201",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "ygYY0HVNJsky8JQNLZRd",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701466017, "_nanoseconds": 701413000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701466020463.jpg?alt=media&token=3d0c33c0-10c5-43a1-b84a-57516a1fc888",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231202": {
+      "photos": [
+        {
+          "date": "20231202",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "LNveua5B0vtuP8chq2RH",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701556285, "_nanoseconds": 537253000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701556310653.jpg?alt=media&token=f087fb33-afc2-48a9-91b7-05359f8082d9",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231202",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "MQ0KRZCP8e4XGlCeAkzi",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701556302, "_nanoseconds": 674272000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701556307025.jpg?alt=media&token=9028e768-ac43-4e97-a581-9e7746f65598",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231202",
+          "note": null,
+          "environments": [],
+          "_type": "photos",
+          "mainTree": ["r6bbb8snyDy5NvkPiPXo"],
+          "active": true,
+          "environmentsTrees": {},
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "lJPR2OqgyfnPklmARtl3",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701535935, "_nanoseconds": 993654000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701535936970.jpg?alt=media&token=0cbc5c16-1c49-4752-82be-8ce9e5e83af8",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231202",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "y8KJPKiJmSrWaAI1XYWV",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701556275, "_nanoseconds": 506446000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701556314292.jpg?alt=media&token=a4815f61-c966-46d9-b0e2-7c583578a624",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "reminders": [
+        {
+          "date": "20231202",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Wasser",
+          "hasRrule": false,
+          "logs": {
+            "aFXC6wS8cgGdw993VQ0l": {
+              "date": "20231202",
+              "timestamp": { "_seconds": 1701556405, "_nanoseconds": 43470000 }
+            }
+          },
+          "timestamp": { "_seconds": 1701556333, "_nanoseconds": 900059000 },
+          "active": false
+        },
+        {
+          "date": "20231202",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Nährstoffe",
+          "hasRrule": false,
+          "logs": {
+            "TmcD8fK8MnaAM9ZBwfJe": {
+              "date": "20231202",
+              "timestamp": { "_seconds": 1701556406, "_nanoseconds": 587796000 }
+            }
+          },
+          "timestamp": { "_seconds": 1701556333, "_nanoseconds": 900059000 },
+          "active": false
+        }
+      ]
+    },
+    "20231204": {
+      "photos": [
+        {
+          "date": "20231204",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "EFQ1KVvZY1vjEn7GAbQv",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701707700, "_nanoseconds": 914886000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701707717226.jpg?alt=media&token=8dce828d-64cd-4ef0-8758-ae4fec026ede",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231204",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "Ti9iaV2nagpWOtlmLMPx",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701707715, "_nanoseconds": 113560000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701707720461.jpg?alt=media&token=4d07b948-7a45-4564-ba67-d57025db2c5c",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231206": {
+      "photos": [
+        {
+          "date": "20231206",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "2uXIE7wzhNclE7BLEt7b",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701890430, "_nanoseconds": 741444000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701890438385.jpg?alt=media&token=23ab67d6-de06-44c8-b9ec-369f2ea6ced6",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231206",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "Gv1gkiT5ALrA624tf0oX",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701890554, "_nanoseconds": 333920000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701890629560.jpg?alt=media&token=73a7513e-1311-4cde-bd15-7dbc178d5521",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231206",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "fbJPvwVuYXhexvVb4cgn",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701890417, "_nanoseconds": 770824000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701890434730.jpg?alt=media&token=21605ddf-7172-4f8f-a4cb-6c83f405f3be",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231207": {
+      "reminders": [
+        {
+          "date": "20231207",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Wasser",
+          "hasRrule": false,
+          "logs": {
+            "ONWktQWNFKGmuktehNxJ": {
+              "date": "20231207",
+              "timestamp": { "_seconds": 1701966704, "_nanoseconds": 107746000 }
+            }
+          },
+          "timestamp": { "_seconds": 1701966665, "_nanoseconds": 243668000 },
+          "active": false
+        },
+        {
+          "date": "20231207",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Nährstoffe",
+          "hasRrule": false,
+          "logs": {
+            "TCEeFPvBIOMIcDq3FZx1": {
+              "date": "20231207",
+              "timestamp": { "_seconds": 1701966704, "_nanoseconds": 424682000 }
+            }
+          },
+          "timestamp": { "_seconds": 1701966665, "_nanoseconds": 243668000 },
+          "active": false
+        },
+        {
+          "date": "20231207",
+          "environments": [],
+          "_type": "reminders",
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.trim",
+          "isDone": false,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Zuschneiden",
+          "hasRrule": false,
+          "trim_type": "TrimTypeEnum.lower_branches",
+          "description": "Lediglich die unteren Blätter entlaubt",
+          "logs": {
+            "6yRAcvgHErMNjzjtXPlI": {
+              "date": "20231207",
+              "timestamp": { "_seconds": 1701966770, "_nanoseconds": 48445000 }
+            }
+          },
+          "timestamp": { "_seconds": 1701966770, "_nanoseconds": 48445000 },
+          "updatedAt": { "_seconds": 1701966769, "_nanoseconds": 621000000 },
+          "active": false
+        },
+        {
+          "date": "20231207",
+          "environments": [],
+          "_type": "reminders",
+          "description": "In 8l Stofftopf umgesetzt ",
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.transplant",
+          "isDone": false,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Transplantation",
+          "hasRrule": false,
+          "logs": {
+            "L09pI8tIwkKasrOmeCaH": {
+              "date": "20231207",
+              "timestamp": { "_seconds": 1701966773, "_nanoseconds": 685766000 }
+            }
+          },
+          "timestamp": { "_seconds": 1701966773, "_nanoseconds": 685765000 },
+          "updatedAt": { "_seconds": 1701966773, "_nanoseconds": 252000000 },
+          "active": false
+        }
+      ],
+      "photos": [
+        {
+          "date": "20231207",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "bLj1QvYzofMm28daEVKC",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701952827, "_nanoseconds": 200867000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701952845987.jpg?alt=media&token=64f440b3-6d1f-431a-a340-02bac605fca5",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231207",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "bbt3mAnQvbap0m2l0uBg",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1701952841, "_nanoseconds": 585041000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401701952850276.jpg?alt=media&token=32961eef-aa37-4c91-9608-fae71b3c8f89",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231208": {
+      "reminders": [
+        {
+          "date": "20231208",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.training",
+          "isDone": false,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Training",
+          "hasRrule": false,
+          "training_type": "TrainingTypeEnum.scrog",
+          "logs": {
+            "XkZGSvBbU2kHnpF1BxTX": {
+              "date": "20231208",
+              "timestamp": { "_seconds": 1702047000, "_nanoseconds": 52608000 }
+            }
+          },
+          "timestamp": { "_seconds": 1702047000, "_nanoseconds": 52607000 },
+          "updatedAt": { "_seconds": 1702046999, "_nanoseconds": 905000000 },
+          "active": false
+        }
+      ],
+      "photos": [
+        {
+          "date": "20231208",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "J0mVWneTuCKzQM59HKDY",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1702047015, "_nanoseconds": 257158000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401702047038761.jpg?alt=media&token=3f4a5df3-87da-4f95-85c5-83b0ef0fb960",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231208",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "dFGhPtMAMG0PZ9QVc2VI",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1702047035, "_nanoseconds": 867917000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401702047043328.jpg?alt=media&token=c820651a-bd8c-470b-af4d-91a4f1027a48",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231209": {
+      "photos": [
+        {
+          "date": "20231209",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "egQxKooLKy8GeEipNGi0",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1702158373, "_nanoseconds": 174333000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401702158379170.jpg?alt=media&token=10ab5b86-8101-48ef-a1e0-32b5c35a8bb1",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231209",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "mR7u8wAChfLiFETO57LI",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1702158358, "_nanoseconds": 3082000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401702158376072.jpg?alt=media&token=d33d1303-8839-4fcd-88ad-2d301830ace3",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "reminders": [
+        {
+          "date": "20231209",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Wasser",
+          "hasRrule": false,
+          "logs": {
+            "Jta35agtwqrMfXOspCou": {
+              "date": "20231209",
+              "timestamp": { "_seconds": 1702159826, "_nanoseconds": 130216000 }
+            }
+          },
+          "timestamp": { "_seconds": 1702159825, "_nanoseconds": 208357000 },
+          "active": false
+        }
+      ]
+    },
+    "20231212": {
+      "photos": [
+        {
+          "date": "20231212",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "M2t3MzK0LScPGADnDtfL",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1702393611, "_nanoseconds": 617110000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401702393615427.jpg?alt=media&token=4c434bf7-fe1d-47c1-b0a6-2df8cd47709a",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231212",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "mN7Is2rMM4J5mF8JKc4r",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1702393595, "_nanoseconds": 678922000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401702393618789.jpg?alt=media&token=44107a6d-b2dc-44d9-a97f-9415ceeadae2",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "reminders": [
+        {
+          "date": "20231212",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.trim",
+          "isDone": false,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Zuschneiden",
+          "hasRrule": false,
+          "trim_type": "TrimTypeEnum.topping",
+          "logs": {
+            "gjVSZDY4PkeNyeFOvzvs": {
+              "date": "20231212",
+              "timestamp": { "_seconds": 1702393585, "_nanoseconds": 340507000 }
+            }
+          },
+          "timestamp": { "_seconds": 1702393585, "_nanoseconds": 340506000 },
+          "updatedAt": { "_seconds": 1702393585, "_nanoseconds": 449000000 },
+          "active": false
+        }
+      ]
+    },
+    "20231213": {
+      "photos": [
+        {
+          "date": "20231213",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "Cfk4eGKFq14W5szD7hwl",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1702470153, "_nanoseconds": 949448000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401702470159977.jpg?alt=media&token=280c6942-66a4-40e7-a65a-19f259c8cbad",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231213",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "k4RYjuIPD8pi91nkRTqM",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1702470140, "_nanoseconds": 486962000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401702470156567.jpg?alt=media&token=ec9a27b1-5f12-4440-a289-6789ecdf35a6",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231217": {
+      "photos": [
+        {
+          "date": "20231217",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "GmHyKAtymPiuiKEER7Ss",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1702827880, "_nanoseconds": 509172000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401702827883192.jpg?alt=media&token=310844ca-d8cb-4d39-978b-934b95524c8e",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231217",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "jVKnCSCJAIGbuLKJHqjo",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1702827868, "_nanoseconds": 121470000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401702827886913.jpg?alt=media&token=b308ece3-7f94-4911-9f0d-0e7c4eb137de",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231218": {
+      "reminders": [
+        {
+          "date": "20231218",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Nährstoffe",
+          "hasRrule": false,
+          "logs": {
+            "SEcsAvOvOxsG2MCAug1O": {
+              "date": "20231218",
+              "timestamp": { "_seconds": 1702883068, "_nanoseconds": 120658000 }
+            }
+          },
+          "timestamp": { "_seconds": 1702883022, "_nanoseconds": 651728000 },
+          "active": false
+        },
+        {
+          "date": "20231218",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.trim",
+          "isDone": false,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Zuschneiden",
+          "hasRrule": false,
+          "trim_type": "TrimTypeEnum.defoliation",
+          "logs": {
+            "pm2gZsBiRb42shDbIFC7": {
+              "date": "20231218",
+              "timestamp": { "_seconds": 1702883069, "_nanoseconds": 514713000 }
+            }
+          },
+          "timestamp": { "_seconds": 1702883069, "_nanoseconds": 514712000 },
+          "updatedAt": { "_seconds": 1702883069, "_nanoseconds": 162000000 },
+          "active": false
+        },
+        {
+          "date": "20231218",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Wasser",
+          "hasRrule": false,
+          "logs": {
+            "tpZUh2hDBQSNog5Oi03O": {
+              "date": "20231218",
+              "timestamp": { "_seconds": 1702883067, "_nanoseconds": 471755000 }
+            }
+          },
+          "timestamp": { "_seconds": 1702883022, "_nanoseconds": 651728000 },
+          "active": false
+        }
+      ],
+      "photos": [
+        {
+          "date": "20231218",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "Qd8abl9gyIVhy45hcLbF",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1702883033, "_nanoseconds": 93479000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401702883049532.jpg?alt=media&token=70cdc09e-b2cf-43f3-94a0-41863355fefc",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231218",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "mbSjfoD4Lih5OxZ4dMop",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1702883046, "_nanoseconds": 549463000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401702883055513.jpg?alt=media&token=1782b0ff-a513-461f-a24b-1c33581240d9",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231219": {
+      "photos": [
+        {
+          "date": "20231219",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "Ief4a7jQUrjZONfrVMMt",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703022726, "_nanoseconds": 731979000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703022729225.jpg?alt=media&token=16e4e747-ec77-4ea9-a431-e5775581e4e3",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231219",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "jwUJbkEBvNbKdZ98c2Vx",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703022712, "_nanoseconds": 582482000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703022732464.jpg?alt=media&token=4f3d3a1b-b170-4b87-b47b-207542acfe95",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231224": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20231224",
+          "stage": "flowering"
+        }
+      ],
+      "photos": [
+        {
+          "date": "20231224",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "4QJJRYKEvGyhnWQ1hZQV",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703455670, "_nanoseconds": 263185000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703455703774.jpg?alt=media&token=415aa62f-a8ee-48d8-ad17-6494362eb306",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231224",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "ccqu5YU3szrUOijh6iWl",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703455685, "_nanoseconds": 114400000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703455707771.jpg?alt=media&token=13a3c799-882a-4d01-93ec-e275f9b354c4",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231224",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "hL6Rmh1h8NKOYGqCoLNd",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703455700, "_nanoseconds": 955015000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703455710706.jpg?alt=media&token=0568cd55-7a42-4ab8-b105-d25fca884756",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231225": {
+      "photos": [
+        {
+          "date": "20231225",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "6WhoHdX6SLUh2iMfMAAD",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703530525, "_nanoseconds": 506300000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703530535543.jpg?alt=media&token=af7c1c32-3af5-4bea-96d8-03eb343b1673",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231225",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "k68vgaIjKzB0FzNyDsXR",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703530493, "_nanoseconds": 210952000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703530532184.jpg?alt=media&token=e93fb087-63d7-45b6-9dcf-d42571c9a2f5",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231225",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "pnhXjs3fbLeHSREbcIIP",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703530507, "_nanoseconds": 895269000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703530538644.jpg?alt=media&token=39334ba2-dd64-4b81-8664-aa0f5ff99725",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231227": {
+      "photos": [
+        {
+          "date": "20231227",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "2yfjrxkmb3W1QqsQueYr",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703676221, "_nanoseconds": 220057000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703676266811.jpg?alt=media&token=c6f0de09-c99a-428b-9984-590804eda497",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231227",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "5y2HapLW4zXGJUMJ8O3W",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703676264, "_nanoseconds": 364576000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703676271119.jpg?alt=media&token=c6fe7ca8-0f72-4b39-a682-d90a05e19ad9",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231227",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "DD82UZoinyGh4BGwTLYP",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703676233, "_nanoseconds": 757834000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703676274189.jpg?alt=media&token=630f5a78-1610-473d-baad-7c79e4d6e94a",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231227",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "b7gu4y2S15k6sdA9ZURA",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703676246, "_nanoseconds": 781674000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703676277672.jpg?alt=media&token=c324b339-a1ff-4e40-87df-838fb372ea4a",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231228": {
+      "reminders": [
+        {
+          "date": "20231228",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.training",
+          "isDone": false,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Training",
+          "hasRrule": false,
+          "training_type": "TrainingTypeEnum.super_cropping",
+          "logs": {
+            "FYLHJbziHFOyDqVCFFUS": {
+              "date": "20231228",
+              "timestamp": { "_seconds": 1703792873, "_nanoseconds": 884600000 }
+            }
+          },
+          "timestamp": { "_seconds": 1703792873, "_nanoseconds": 884599000 },
+          "updatedAt": { "_seconds": 1703792873, "_nanoseconds": 549000000 },
+          "active": false
+        },
+        {
+          "date": "20231228",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.trim",
+          "isDone": false,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Zuschneiden",
+          "hasRrule": false,
+          "trim_type": "TrimTypeEnum.defoliation",
+          "logs": {
+            "XKVAIrh3QdokDpafxfoe": {
+              "date": "20231228",
+              "timestamp": { "_seconds": 1703792874, "_nanoseconds": 910572000 }
+            }
+          },
+          "timestamp": { "_seconds": 1703792874, "_nanoseconds": 910571000 },
+          "updatedAt": { "_seconds": 1703792874, "_nanoseconds": 594000000 },
+          "active": false
+        },
+        {
+          "date": "20231228",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Nährstoffe",
+          "hasRrule": false,
+          "logs": {
+            "Wm9hoP6KRjHi3NBG6RcE": {
+              "date": "20231228",
+              "timestamp": { "_seconds": 1703792845, "_nanoseconds": 726448000 }
+            }
+          },
+          "timestamp": { "_seconds": 1703792840, "_nanoseconds": 482805000 },
+          "active": false
+        },
+        {
+          "date": "20231228",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Wasser",
+          "hasRrule": false,
+          "logs": {
+            "DojY7oill3gxXWNC1eeu": {
+              "date": "20231228",
+              "timestamp": { "_seconds": 1703792846, "_nanoseconds": 1738000 }
+            }
+          },
+          "timestamp": { "_seconds": 1703792840, "_nanoseconds": 482805000 },
+          "active": false
+        }
+      ],
+      "photos": [
+        {
+          "date": "20231228",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "VrVsPRdCL06JN6pm70uW",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703792694, "_nanoseconds": 903870000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703792696887.jpg?alt=media&token=04f86921-073a-4f92-a92e-3ed7d4c1899b",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231228",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "cve1unYuCOHzWdkG8EHr",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703792673, "_nanoseconds": 824122000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703792700773.jpg?alt=media&token=b67a8711-ade9-4bc1-bd67-81a2a9722ca0",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231228",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "tcsA9fXFQR21cKD0JEJm",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703792683, "_nanoseconds": 2763000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703792704232.jpg?alt=media&token=a2f43424-7a67-42d8-8b38-2910aaa66fcd",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231230": {
+      "photos": [
+        {
+          "date": "20231230",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "AeoZxSwDhltSK8S5z2zR",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703976526, "_nanoseconds": 925058000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703976544946.jpg?alt=media&token=133fc201-5edf-4078-b18a-52dec32a1fe9",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20231230",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "mOVWsuwJqbsyKd0GtGjj",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1703976542, "_nanoseconds": 608621000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401703976548212.jpg?alt=media&token=a9cb1931-af1b-4086-9b66-d978973dde67",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20231231": {
+      "reminders": [
+        {
+          "date": "20231231",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Wasser",
+          "hasRrule": false,
+          "logs": {
+            "EOJYguN1VXkWMZvtyY1K": {
+              "date": "20231231",
+              "timestamp": { "_seconds": 1704109585, "_nanoseconds": 385322000 }
+            }
+          },
+          "timestamp": { "_seconds": 1704024000, "_nanoseconds": 0 },
+          "active": false
+        },
+        {
+          "date": "20231231",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Nährstoffe",
+          "hasRrule": false,
+          "logs": {
+            "obIkQyDHfQHG5t0bsFhV": {
+              "date": "20231231",
+              "timestamp": { "_seconds": 1704109584, "_nanoseconds": 768630000 }
+            }
+          },
+          "timestamp": { "_seconds": 1704024000, "_nanoseconds": 0 },
+          "active": false
+        }
+      ]
+    },
+    "20240101": {
+      "photos": [
+        {
+          "date": "20240101",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "0Mj9BnrMP9ZPa5L87Bpo",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704145602, "_nanoseconds": 966815000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704145684886.jpg?alt=media&token=9243f3e2-610e-490d-9500-f48d2d78dc0b",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240101",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "4rdW32MzbI4IhW8Fug4l",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704145590, "_nanoseconds": 194248000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704145681487.jpg?alt=media&token=010a7115-9a60-47b3-aed3-07bf548efe50",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240101",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "OhJg3ChFMjruJMt9mh3Y",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704145642, "_nanoseconds": 650866000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704145688238.jpg?alt=media&token=e38ec00c-8c9a-4a32-aa28-6d90cd3f6916",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240101",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "TUKM2x8CUo2rBPKaQi3e",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704145678, "_nanoseconds": 331159000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704145691403.jpg?alt=media&token=25dd2691-f13a-4d2b-8717-7c0dbceef505",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240101",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "TexTKYq7uWRo981UUqXk",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704109516, "_nanoseconds": 749910000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704109523024.jpg?alt=media&token=b29dbf6b-2950-4c63-8e83-3ff55632b6dd",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240101",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "Yn0FmBiOqasTUNLOjG1w",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704109502, "_nanoseconds": 322605000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704109519577.jpg?alt=media&token=3c1a2076-1da2-4ce9-9471-b7fedd3d5ee1",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240101",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "mAsGBZccrMiFSrMqoOoT",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704145661, "_nanoseconds": 189047000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704145694351.jpg?alt=media&token=0c3db2c5-f833-4714-962b-6b555a2b2f42",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240101",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "v3M4FsCfFpbzgKn20m7R",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704109488, "_nanoseconds": 649764000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704109526461.jpg?alt=media&token=6ea943a1-9ddf-444e-a72b-d7b6302ef10c",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "reminders": [
+        {
+          "date": "20240101",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Nährstoffe",
+          "hasRrule": false,
+          "logs": {
+            "BwUsVmREm2qeDuXUPwfv": {
+              "date": "20240101",
+              "timestamp": { "_seconds": 1704145683, "_nanoseconds": 4965000 }
+            }
+          },
+          "timestamp": { "_seconds": 1704145579, "_nanoseconds": 608411000 },
+          "active": false
+        },
+        {
+          "date": "20240101",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.training",
+          "isDone": false,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Training",
+          "hasRrule": false,
+          "training_type": "TrainingTypeEnum.super_cropping",
+          "logs": {
+            "ju6Q2KHbNEGDaCf0Ruii": {
+              "date": "20240101",
+              "timestamp": { "_seconds": 1704145956, "_nanoseconds": 156180000 }
+            }
+          },
+          "timestamp": { "_seconds": 1704145956, "_nanoseconds": 156179000 },
+          "updatedAt": { "_seconds": 1704145956, "_nanoseconds": 556000000 },
+          "active": false
+        },
+        {
+          "date": "20240101",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Wasser",
+          "hasRrule": false,
+          "logs": {
+            "VZUJgQt8AnoBQITAoGrE": {
+              "date": "20240101",
+              "timestamp": { "_seconds": 1704145683, "_nanoseconds": 655636000 }
+            }
+          },
+          "timestamp": { "_seconds": 1704145579, "_nanoseconds": 608411000 },
+          "active": false
+        }
+      ]
+    },
+    "20240103": {
+      "reminders": [
+        {
+          "date": "20240103",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Wasser",
+          "hasRrule": false,
+          "logs": {
+            "uODxi6K5Q4gfu9nM5dtp": {
+              "date": "20240103",
+              "timestamp": { "_seconds": 1704282227, "_nanoseconds": 84740000 }
+            }
+          },
+          "timestamp": { "_seconds": 1704282225, "_nanoseconds": 320696000 },
+          "active": false
+        },
+        {
+          "date": "20240103",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Nährstoffe",
+          "hasRrule": false,
+          "logs": {
+            "iVSGCOKtPjnQL6mP7Npu": {
+              "date": "20240103",
+              "timestamp": { "_seconds": 1704282226, "_nanoseconds": 818098000 }
+            }
+          },
+          "timestamp": { "_seconds": 1704282225, "_nanoseconds": 320696000 },
+          "active": false
+        }
+      ],
+      "photos": [
+        {
+          "date": "20240103",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "CU3V4nzaOUw9wdSIXG5b",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704282563, "_nanoseconds": 198884000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704282566989.jpg?alt=media&token=9dd3b8c9-c3d9-4c13-8ac2-81bfc9126f21",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240103",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "CpfriIv257RFdQQVpYZt",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704282561, "_nanoseconds": 198884000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704282571751.jpg?alt=media&token=bd0a0147-e2d7-49a9-a99d-61cf888628de",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240103",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "R926CQzhopSXGNhWAvnZ",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704282562, "_nanoseconds": 198884000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704282575685.jpg?alt=media&token=9c35dd6a-6d9a-4036-a6a3-62513809d4cd",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "treeLogs": [
+        {
+          "date": "20240103",
+          "rrule": null,
+          "environments": [],
+          "values": {},
+          "_type": "treeLogs",
+          "environmentsTrees": {},
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "note": "Ab jetzt Blütendünger Mischung anrühren mit nur 3,5 l Wasser statt 5l (Angaben 3-5 l).\nAb Woche 10 wird dann gespült.",
+          "updatedAt": { "_seconds": 1704407408, "_nanoseconds": 995000000 },
+          "active": false
+        }
+      ]
+    },
+    "20240105": {
+      "photos": [
+        {
+          "date": "20240105",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "5Ea5RcZH0t6MD66zdUMn",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704483941, "_nanoseconds": 184301000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704484001543.jpg?alt=media&token=0b5f7d58-bda5-430f-a7af-851b27d8583e",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240105",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "Hh2qk8agiXKRpRg3bRzN",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704483998, "_nanoseconds": 13470000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704484005330.jpg?alt=media&token=6b8e7311-02cd-4059-9a60-318ff4d4bde3",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240105",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "Lg9wNzYWxmJnz7BV36JN",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704483931, "_nanoseconds": 871918000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704484009126.jpg?alt=media&token=b83ec502-b743-45d0-a793-0039e33beefa",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240105",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "NhsO5qTcOo8Kac0ls2Fn",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704483919, "_nanoseconds": 853850000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704484013220.jpg?alt=media&token=30df72a1-d5c2-4cf6-96d7-20fafe5050ce",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240105",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "YPkzmTjsOlsLp4178gcf",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704483975, "_nanoseconds": 91101000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704484016700.jpg?alt=media&token=ffab70cf-af8c-4aa1-b83a-d992ba5c96f0",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240105",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "y3Uw2gmtPNLbIJhKBTTu",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704483956, "_nanoseconds": 232146000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704484020344.jpg?alt=media&token=decf227f-b83b-4ca0-a193-2f95c2a8559a",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20240106": {
+      "photos": [
+        {
+          "date": "20240106",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "4EZ5i2yphCoXieHmE6U7",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704542224, "_nanoseconds": 340766000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704542232338.jpg?alt=media&token=ae5b17de-ea5e-465b-935e-7c9d12a357e5",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240106",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "WzYPhh3AuIJcDqFPfme7",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704542160, "_nanoseconds": 603124000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704542228561.jpg?alt=media&token=b4127346-397a-45eb-a295-d8cc7529d219",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240106",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "XzbmGI2BZCeWcM39zS8P",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704542179, "_nanoseconds": 555714000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704542235808.jpg?alt=media&token=dc7698b1-e520-4e89-939a-4feff95642d2",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240106",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "qE0wufkhgMOTKLSY6UHJ",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704542195, "_nanoseconds": 162783000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704542239492.jpg?alt=media&token=92095330-b0d6-4ee7-85ec-bca9fa9b312a",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20240108": {
+      "reminders": [
+        {
+          "date": "20240108",
+          "environments": [],
+          "_type": "reminders",
+          "description": "Die Blütenstämme von übermäßigem Laub befreit damit mehr Luft zirkulieren kann und die Buds sich ausbreiten können ",
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.trim",
+          "isDone": false,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Zuschneiden",
+          "hasRrule": false,
+          "trim_type": "TrimTypeEnum.defoliation",
+          "logs": {
+            "AjAgSya1ckoAiHaq43u5": {
+              "date": "20240108",
+              "timestamp": { "_seconds": 1704699902, "_nanoseconds": 899029000 }
+            }
+          },
+          "timestamp": { "_seconds": 1704699902, "_nanoseconds": 899029000 },
+          "updatedAt": { "_seconds": 1704699902, "_nanoseconds": 712000000 },
+          "active": false
+        },
+        {
+          "date": "20240108",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Nährstoffe",
+          "hasRrule": false,
+          "mixes": [],
+          "logs": {
+            "NN2eT0QombRuUyuRbOHG": {
+              "date": "20240108",
+              "timestamp": { "_seconds": 1704727169, "_nanoseconds": 160590000 }
+            }
+          },
+          "timestamp": { "_seconds": 1704727169, "_nanoseconds": 160589000 },
+          "updatedAt": { "_seconds": 1704727168, "_nanoseconds": 941000000 },
+          "active": false
+        },
+        {
+          "date": "20240108",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Wasser",
+          "hasRrule": false,
+          "logs": {
+            "Yi8QsrhQbgdArrjVpgJz": {
+              "date": "20240108",
+              "timestamp": { "_seconds": 1704727168, "_nanoseconds": 508657000 }
+            }
+          },
+          "timestamp": { "_seconds": 1704727168, "_nanoseconds": 508655000 },
+          "updatedAt": { "_seconds": 1704727168, "_nanoseconds": 317000000 },
+          "active": false
+        }
+      ],
+      "photos": [
+        {
+          "date": "20240108",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "nvEOjIc9DAJXXGcbLkUI",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704750112, "_nanoseconds": 24695000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704750114222.jpg?alt=media&token=13267e6f-6fe7-4369-823a-d1bf206077ac",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20240109": {
+      "photos": [
+        {
+          "date": "20240109",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "MJUU5QbJj2MdXZKWuNrI",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704838038, "_nanoseconds": 356778000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704838217031.jpg?alt=media&token=b858741a-0431-43c3-a116-cfb2b05f3a85",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240109",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "Pwu52fkF6ZsrUrRuhLR4",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704838019, "_nanoseconds": 262542000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704838213035.jpg?alt=media&token=72ea1d02-c653-43b0-bc6c-f6826cc74824",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240109",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "dicWm6w7Z4ILwJKyMZP5",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704838006, "_nanoseconds": 416406000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704838220714.jpg?alt=media&token=59c4ff6e-0234-473b-bd11-f22d489c054c",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240109",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "qhQA1uzPQ9OezVbueLX4",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704838057, "_nanoseconds": 860381000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704838243260.jpg?alt=media&token=eb2e4cd6-bea7-440a-9369-b928302461fe",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20240110": {
+      "photos": [
+        {
+          "date": "20240110",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "Pgj0uVA3Ghc14ih7xp9P",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704921362, "_nanoseconds": 591403000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704921409584.jpg?alt=media&token=04144cc5-8c60-4fa7-aca5-2b74ca0b4455",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240110",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "VddKgwaYy6qXiGw9lrDr",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704921402, "_nanoseconds": 534885000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704921405316.jpg?alt=media&token=3c1b6d1d-f818-430b-9a1c-ebbf41ed0fb5",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20240111": {
+      "reminders": [
+        {
+          "date": "20240111",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Wasser",
+          "hasRrule": false,
+          "logs": {
+            "SZcFRnHmQUZNt3kEM6Np": {
+              "date": "20240111",
+              "timestamp": { "_seconds": 1705006145, "_nanoseconds": 588390000 }
+            }
+          },
+          "timestamp": { "_seconds": 1705006031, "_nanoseconds": 93274000 },
+          "active": false
+        },
+        {
+          "date": "20240111",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Nährstoffe",
+          "hasRrule": false,
+          "logs": {
+            "2FR84DtyTz746UXDnVRX": {
+              "date": "20240111",
+              "timestamp": { "_seconds": 1705006145, "_nanoseconds": 283257000 }
+            }
+          },
+          "timestamp": { "_seconds": 1705006031, "_nanoseconds": 93274000 },
+          "active": false
+        }
+      ],
+      "photos": [
+        {
+          "date": "20240111",
+          "note": null,
+          "environments": [],
+          "_type": "photos",
+          "mainTree": ["r6bbb8snyDy5NvkPiPXo"],
+          "active": true,
+          "environmentsTrees": {},
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "QYGrppbm7U4k05rk92sy",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704955869, "_nanoseconds": 510129000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704955870491.jpg?alt=media&token=8e384fad-fe16-420e-9712-f413e3268cef",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240111",
+          "note": null,
+          "environments": [],
+          "_type": "photos",
+          "mainTree": ["r6bbb8snyDy5NvkPiPXo"],
+          "active": true,
+          "environmentsTrees": {},
+          "type": "PhotoTypeEnum.tree",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "p3NhCDp7CffOrtxnaE8R",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1704955919, "_nanoseconds": 588944000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704955920604.jpg?alt=media&token=3be45d6e-cb5e-443c-89d7-2d65ce73fdab",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20240113": {
+      "photos": [
+        {
+          "date": "20240113",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "5u9aF6MeRcxg5zQkYaXh",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1705151669, "_nanoseconds": 536855000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401705151705705.jpg?alt=media&token=f5ad6822-224f-43bf-8e60-ad1d3c59924e",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240113",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "wyCd6iEgvYMpAqOElZcs",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1705151701, "_nanoseconds": 364061000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401705151712569.jpg?alt=media&token=d06f98a8-c0b2-477f-babf-268d438bcc95",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20240114": {
+      "reminders": [
+        {
+          "date": "20240114",
+          "environments": [],
+          "_type": "reminders",
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Nährstoffe",
+          "hasRrule": false,
+          "description": "Heute letzte  Düngung,  ab kommenden Woche wieder gespült ",
+          "mixes": [],
+          "logs": {
+            "kaXDv9seZ79z5msJ9Ipq": {
+              "date": "20240114",
+              "timestamp": { "_seconds": 1705263294, "_nanoseconds": 906850000 }
+            }
+          },
+          "timestamp": { "_seconds": 1705263294, "_nanoseconds": 906850000 },
+          "updatedAt": { "_seconds": 1705263294, "_nanoseconds": 962000000 },
+          "active": false
+        },
+        {
+          "date": "20240114",
+          "environments": [],
+          "_type": "reminders",
+          "description": null,
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.watering",
+          "isDone": null,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Wasser",
+          "hasRrule": false,
+          "logs": {
+            "JVtfv2Ew6eL0Zy9163c4": {
+              "date": "20240114",
+              "timestamp": { "_seconds": 1705263264, "_nanoseconds": 259153000 }
+            }
+          },
+          "timestamp": { "_seconds": 1705263260, "_nanoseconds": 342886000 },
+          "active": false
+        }
+      ],
+      "photos": [
+        {
+          "date": "20240114",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "dMka4iZ3UEDCaQqPfDKa",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1705263538, "_nanoseconds": 965220000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401705263547006.jpg?alt=media&token=c1283bb6-cdf8-47d1-9667-6ebec27e03a6",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240114",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "jeahwOoHkTQ6BWj2ziSq",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1705263508, "_nanoseconds": 868948000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401705263551596.jpg?alt=media&token=055a3d64-d705-4e36-8353-d228bc2ac04d",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240114",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "yHccCvwEkwD0b3b4fwtK",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1705263523, "_nanoseconds": 571622000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401705263541457.jpg?alt=media&token=17ee2470-2976-4227-b2b0-e779849160d0",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20240115": {
+      "photos": [
+        {
+          "date": "20240115",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "DWfVLpR8MvUgtFOwyt3J",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1705317589, "_nanoseconds": 634198000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401705317597972.jpg?alt=media&token=7a145df4-e4b7-42ca-8139-8b312b37282d",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240115",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "IN8xnGU2tLYjGJNQKMSF",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1705317521, "_nanoseconds": 242961000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401705317592728.jpg?alt=media&token=ae69e305-6710-459f-aa8a-ef80647dab28",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240115",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "cKk5hGICDHUT0c8XsfE0",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1705317503, "_nanoseconds": 326337000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401705317603168.jpg?alt=media&token=604ec3ad-17b5-4009-abab-6f11c4089ae1",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240115",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "kIelms0IM38ueJ1flnwu",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1705317557, "_nanoseconds": 555180000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401705317608394.jpg?alt=media&token=5eeafe1c-7912-4ecc-9996-7e06edfa30b4",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20240120": {
+      "photos": [
+        {
+          "date": "20240120",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "32wBeFCe5GZlFUn3zMfo",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1705763226, "_nanoseconds": 535102000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401705763258283.jpg?alt=media&token=ef6dc096-5450-48c2-b41a-801f1448175f",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240120",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "YJt62KSgnK7amNK8FQpC",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1705763241, "_nanoseconds": 854306000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401705763261970.jpg?alt=media&token=804fb3e1-73b5-49de-832c-a2273d917d94",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240120",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "cDtQL8qV0Ibmyb3vYoGf",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1705763255, "_nanoseconds": 50662000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401705763266365.jpg?alt=media&token=3374ca32-d6df-42f0-96ec-56a6bd0c7991",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20240123": {
+      "photos": [
+        {
+          "date": "20240123",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "Brh14fgSN4ts5kvWYTMM",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1706045030, "_nanoseconds": 591551000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401706045071001.jpg?alt=media&token=ecc63046-bc9d-43f0-a5d6-42d253148bb8",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240123",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "D5S2qjgFwTzJXLJ0o2Z8",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1706045017, "_nanoseconds": 99582000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401706045074343.jpg?alt=media&token=79db665e-32da-4bda-baff-16cca43af82b",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240123",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "yLZvyrtk0e06YIh7M3PD",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1706045000, "_nanoseconds": 232484000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401706045077986.jpg?alt=media&token=67e9fcae-80d5-4f18-924b-1729cdf06578",
+          "source": "PhotoSourceEnum.url"
+        }
+      ]
+    },
+    "20240126": {
+      "photos": [
+        {
+          "date": "20240126",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "34ffGR5DJDk7M3si3OdE",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1706255507, "_nanoseconds": 832728000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401706255542780.jpg?alt=media&token=d0b71da0-bc7b-496b-9bb9-bde369ec83fa",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240126",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "OGuCQB6w59DM8AmSZpbs",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1706255514, "_nanoseconds": 53636000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401706255546726.jpg?alt=media&token=8d256b90-6ce1-4584-a081-b1438bc25afc",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240126",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "X69gHiUOzcXqVk6rMnrt",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1706255520, "_nanoseconds": 784095000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401706255552011.jpg?alt=media&token=a3e31251-624d-4a43-bf46-e54da783f970",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240126",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "eBgR0KvgFXK5JRjzjAfe",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1706255537, "_nanoseconds": 733840000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401706255555267.jpg?alt=media&token=8d66308e-380f-44d7-9b82-f47b73759b65",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "reminders": [
+        {
+          "date": "20240126",
+          "environments": [],
+          "_type": "reminders",
+          "description": "Heute war der Tag der Tage ",
+          "environmentsTrees": {},
+          "exclusions": [],
+          "type": "ReminderTypeEnum.harvest",
+          "isDone": false,
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "notificationTime": null,
+          "futureExclusions": [],
+          "name": "Ernte",
+          "hasRrule": false,
+          "logs": {
+            "H15XSTV8Jb24IcYmdeZL": {
+              "date": "20240126",
+              "timestamp": { "_seconds": 1706255495, "_nanoseconds": 502264000 }
+            }
+          },
+          "timestamp": { "_seconds": 1706255495, "_nanoseconds": 502262000 },
+          "updatedAt": { "_seconds": 1706255495, "_nanoseconds": 520000000 },
+          "active": false
+        }
+      ]
+    },
+    "20240127": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20240127",
+          "stage": "drying"
+        }
+      ]
+    },
+    "20240129": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20240129",
+          "stage": "curing"
+        }
+      ],
+      "photos": [
+        {
+          "date": "20240129",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "I6ulWKD6vuU3FYw45W5K",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1706487768, "_nanoseconds": 215775000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401706487791698.jpg?alt=media&token=3817068b-a8f1-48ec-8582-5767d56a9e7e",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240129",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "hwd1SScJ8sYldCTvcXNa",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1706487725, "_nanoseconds": 569043000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401706487744249.jpg?alt=media&token=2daf2404-e751-45e7-9c57-3d13092a23c6",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240129",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "pjusleafL0vhUlRvJTkq",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1706487646, "_nanoseconds": 365686000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401706487682833.jpg?alt=media&token=9f640b90-40a5-4f2e-ab18-5ade5c8a3bc1",
+          "source": "PhotoSourceEnum.url"
+        },
+        {
+          "date": "20240129",
+          "note": null,
+          "environments": [],
+          "mainTree": [],
+          "_type": "photos",
+          "active": true,
+          "environmentsTrees": {},
+          "type": "null",
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "rrule": null,
+          "id": "vTU2QMIkFWnqe5SPlbLm",
+          "originalPath": null,
+          "timestamp": { "_seconds": 1706506739, "_nanoseconds": 259133000 },
+          "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401706506745441.jpg?alt=media&token=518a1c13-ebdb-483c-92ca-2f4a6b0d55d2",
+          "source": "PhotoSourceEnum.url"
+        }
+      ],
+      "harvestLogs": [
+        {
+          "date": "20240129",
+          "note": "Erst im Growroom abgehangen getrocknet, anschließend nich bei 4-10 Grad an frischer Luft im Schuppen abgehangen.Heute zum aushärten in Gläser gepackt.Bin aufs Aroma gespannt 😋",
+          "rrule": null,
+          "environments": [],
+          "values": {
+            "weight": { "unit": "g", "min": null, "max": null, "value": 28 }
+          },
+          "_type": "harvestLogs",
+          "environmentsTrees": {},
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "active": false
+        }
+      ]
+    },
+    "20240210": {
+      "harvestLogs": [
+        {
+          "date": "20240210",
+          "note": "Ein tolles Aroma mit leichter Note von Pfeffer ...Ein Klassiker halt🤤",
+          "rrule": null,
+          "environments": [],
+          "values": {},
+          "_type": "harvestLogs",
+          "environmentsTrees": {},
+          "trees": ["r6bbb8snyDy5NvkPiPXo"],
+          "active": false
+        }
+      ]
+    }
+  },
+  "lastUpdate": "20240313",
+  "photosCount": 114,
+  "strain": {
+    "seedFinderId": "White_Widow_Automatic",
+    "breederId": "Aztech_Genetics",
+    "strainClass": null,
+    "breederName": "Aztech Genetics",
+    "name": "White Widow Automatic",
+    "description": null,
+    "type": null,
+    "strainSource": "StrainSourceEnum.seedFinder"
+  },
+  "tree": {
+    "weight": null,
+    "strain": { "name": "White Widow Automatic", "id": "KsK6UhIPvaMwcpPsBERw" },
+    "mediumType": "MediumTypeEnum.soil",
+    "name": "White Widow Auto ",
+    "isClone": false,
+    "avatar": {
+      "id": "p3NhCDp7CffOrtxnaE8R",
+      "path": "https://firebasestorage.googleapis.com/v0/b/jane-14027.appspot.com/o/tRWzhQywwuVkvdW2Ssm8Fjmg6Vj2%2Fimg%401704955920604.jpg?alt=media&token=3be45d6e-cb5e-443c-89d7-2d65ce73fdab",
+      "source": "PhotoSourceEnum.url"
+    },
+    "stageChanges": [
+      { "date": "20231114", "from": "null", "to": "TreeStageEnum.germination" },
+      {
+        "date": "20231118",
+        "from": "TreeStageEnum.germination",
+        "to": "TreeStageEnum.seedling"
+      },
+      {
+        "date": "20231125",
+        "from": "TreeStageEnum.seedling",
+        "to": "TreeStageEnum.vegetative"
+      },
+      {
+        "date": "20231224",
+        "from": "TreeStageEnum.vegetative",
+        "to": "TreeStageEnum.flowering"
+      },
+      {
+        "date": "20240127",
+        "from": "TreeStageEnum.flowering",
+        "to": "TreeStageEnum.drying"
+      },
+      {
+        "date": "20240129",
+        "from": "TreeStageEnum.drying",
+        "to": "TreeStageEnum.curing"
+      }
+    ],
+    "stage": "TreeStageEnum.curing",
+    "environmentMoves": [
+      {
+        "date": "20240201",
+        "pastEnvironment": {
+          "name": "GrowPro3 ",
+          "id": "27eV9j2lhWPrtVlbMyGL",
+          "type": "EnvironmentTypeEnum.indoor"
+        },
+        "newEnvironment": {
+          "name": "Schuppen ",
+          "id": "Q2d1oYZRHg2Yx27uhU84",
+          "type": "EnvironmentTypeEnum.outdoor"
+        }
+      }
+    ],
+    "environment": { "name": "Schuppen ", "id": "Q2d1oYZRHg2Yx27uhU84" },
+    "mediumDesc": "Floragard Professional Growmix \"Marry Jane\"",
+    "archiveDate": "20240313",
+    "state": "TreeStateEnum.archived",
+    "updatedAt": { "_seconds": 1710366098, "_nanoseconds": 696000000 },
+    "germinationDate": "20231114",
+    "seedlingDate": "20231118",
+    "vegetativeDate": "20231125",
+    "floweringDate": "20231224",
+    "dryingDate": "20240127",
+    "curingDate": "20240129",
+    "stages": {
+      "germination": "20231114",
+      "seedling": "20231118",
+      "vegetative": "20231125",
+      "flowering": "20231224",
+      "drying": "20240127",
+      "curing": "20240129"
+    }
+  },
+  "user": { "lengthUnit": null, "temperatureUnit": null },
+  "views": 247584
+}

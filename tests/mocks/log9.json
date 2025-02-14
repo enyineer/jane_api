@@ -1,0 +1,267 @@
+{
+  "age": 1,
+  "environment": {
+    "name": "Indoor",
+    "avatar": null,
+    "type": "EnvironmentTypeEnum.indoor",
+    "indoorLength": 100,
+    "indoorWidth": 100,
+    "exposureTime": 18,
+    "environment_changes": [
+      {
+        "date": "20241027",
+        "environment": {
+          "lights": [],
+          "exposureTime": 12,
+          "name": "Indoor",
+          "type": "EnvironmentTypeEnum.indoor"
+        },
+        "changes": ["EnvironmentChangeType.new_setup"],
+        "_type": "environmentChanges",
+        "active": true
+      },
+      {
+        "date": "20241027",
+        "environment": {
+          "exposureTime": 18,
+          "name": "Indoor",
+          "type": "EnvironmentTypeEnum.indoor",
+          "lights": [{ "wattage": "250", "type": "LightingTypeEnum.led" }]
+        },
+        "original_environment": {
+          "lights": [],
+          "exposureTime": 12,
+          "name": "Indoor",
+          "type": "EnvironmentTypeEnum.indoor"
+        },
+        "changes": [
+          "EnvironmentChangeType.exposition_change",
+          "EnvironmentChangeType.new_light"
+        ],
+        "_type": "environmentChanges",
+        "active": true
+      }
+    ],
+    "indoorHeight": 200,
+    "lights": [{ "wattage": "250", "type": "LightingTypeEnum.led" }],
+    "updatedAt": { "_seconds": 1729984946, "_nanoseconds": 556000000 }
+  },
+  "events": {
+    "20250212": {
+      "stageChange": [
+        {
+          "_type": "stageChange",
+          "active": true,
+          "date": "20250212",
+          "stage": "germination"
+        }
+      ],
+      "reminders": [
+        {
+          "environments": [],
+          "exclusions": [],
+          "futureExclusions": [],
+          "date": "20250212",
+          "_type": "reminders",
+          "description": null,
+          "active": true,
+          "environmentsTrees": {},
+          "type": "ReminderTypeEnum.transplant",
+          "isDone": false,
+          "trees": ["jzsAONDyio4FpXeFGFQr"],
+          "rrule": {
+            "weeklyDays": [],
+            "period": 1,
+            "limitTimes": 1,
+            "limitStage": "TreeStageEnum.germination",
+            "limitDate": "2025-02-12 22:08:45.231469",
+            "limitType": "LimitTypeEnum.forever",
+            "frequency": "FrequencyEnum.daily"
+          },
+          "notificationTime": null,
+          "name": "Transplant",
+          "hasRrule": true,
+          "logs": {
+            "ADwdBGXCocUfdPdhx5ln": {
+              "date": "20250212",
+              "timestamp": { "_seconds": 1739394587, "_nanoseconds": 439500000 }
+            }
+          },
+          "timestamp": { "_seconds": 1739394587, "_nanoseconds": 439492000 },
+          "updatedAt": { "_seconds": 1739394586, "_nanoseconds": 147000000 }
+        },
+        {
+          "environments": [],
+          "exclusions": [],
+          "futureExclusions": [],
+          "date": "20250212",
+          "application_method": "ApplicationMethodEnum.liquid",
+          "_type": "reminders",
+          "description": null,
+          "active": true,
+          "environmentsTrees": {},
+          "type": "ReminderTypeEnum.nutrients",
+          "isDone": false,
+          "trees": ["jzsAONDyio4FpXeFGFQr"],
+          "rrule": null,
+          "notificationTime": null,
+          "name": "Nutrients",
+          "hasRrule": false,
+          "mixes": [
+            {
+              "amount": {
+                "unit": "VolumeUnitEnum.milliLitre",
+                "value": "200.0"
+              },
+              "nutrient": {
+                "producerName": "Advanced Hydroponics of Holland",
+                "name": "Dutch Formula Bloom",
+                "description": null,
+                "logo": null,
+                "id": null,
+                "producerId": null
+              },
+              "weight": null,
+              "solvent": {
+                "unit": "VolumeUnitEnum.milliLitre",
+                "value": "200.0"
+              },
+              "type": "MixTypeEnum.liquid"
+            }
+          ],
+          "logs": {
+            "ChGkPYdrTnofR8E6uDmA": {
+              "date": "20250212",
+              "timestamp": { "_seconds": 1739394375, "_nanoseconds": 524129000 }
+            }
+          },
+          "timestamp": { "_seconds": 1739394375, "_nanoseconds": 524124000 },
+          "updatedAt": { "_seconds": 1739394374, "_nanoseconds": 428000000 }
+        },
+        {
+          "environments": [],
+          "exclusions": [],
+          "futureExclusions": [],
+          "date": "20250212",
+          "_type": "reminders",
+          "description": null,
+          "active": true,
+          "environmentsTrees": {},
+          "type": "ReminderTypeEnum.changeEnvironment",
+          "isDone": false,
+          "trees": ["jzsAONDyio4FpXeFGFQr"],
+          "rrule": {
+            "weeklyDays": [],
+            "period": 1,
+            "limitTimes": 1,
+            "limitStage": "TreeStageEnum.germination",
+            "limitDate": "2025-02-14 23:59:59.000",
+            "limitType": "LimitTypeEnum.date",
+            "frequency": "FrequencyEnum.daily"
+          },
+          "notificationTime": null,
+          "name": "Change Environment",
+          "hasRrule": true,
+          "logs": {
+            "UNgnQaS12XeIWZvL39rd": {
+              "date": "20250212",
+              "timestamp": { "_seconds": 1739394588, "_nanoseconds": 138199000 }
+            }
+          },
+          "timestamp": { "_seconds": 1739394588, "_nanoseconds": 138194000 },
+          "updatedAt": { "_seconds": 1739394586, "_nanoseconds": 829000000 }
+        },
+        {
+          "environments": [],
+          "exclusions": [],
+          "futureExclusions": [],
+          "date": "20250212",
+          "_type": "reminders",
+          "description": null,
+          "active": true,
+          "environmentsTrees": {},
+          "type": "ReminderTypeEnum.training",
+          "isDone": false,
+          "trees": ["jzsAONDyio4FpXeFGFQr"],
+          "rrule": {
+            "weeklyDays": [],
+            "period": 1,
+            "limitTimes": 2,
+            "limitStage": "TreeStageEnum.germination",
+            "limitDate": "2025-02-12 22:09:13.453217",
+            "limitType": "LimitTypeEnum.times",
+            "frequency": "FrequencyEnum.daily"
+          },
+          "notificationTime": null,
+          "name": "Training",
+          "hasRrule": true,
+          "training_type": "TrainingTypeEnum.fim",
+          "logs": {
+            "qMrphTnIJpP9eRar28ix": {
+              "date": "20250212",
+              "timestamp": { "_seconds": 1739394588, "_nanoseconds": 696396000 }
+            }
+          },
+          "timestamp": { "_seconds": 1739394588, "_nanoseconds": 696392000 },
+          "updatedAt": { "_seconds": 1739394587, "_nanoseconds": 388000000 }
+        },
+        {
+          "environments": [],
+          "exclusions": [],
+          "futureExclusions": [],
+          "date": "20250212",
+          "_type": "reminders",
+          "description": null,
+          "active": true,
+          "environmentsTrees": {},
+          "type": "ReminderTypeEnum.trim",
+          "isDone": false,
+          "trees": ["jzsAONDyio4FpXeFGFQr"],
+          "rrule": {
+            "weeklyDays": [],
+            "period": 1,
+            "limitTimes": 1,
+            "limitStage": "TreeStageEnum.vegetative",
+            "limitDate": "2025-02-12 22:09:31.834572",
+            "limitType": "LimitTypeEnum.stage",
+            "frequency": "FrequencyEnum.daily"
+          },
+          "notificationTime": null,
+          "name": "Trim",
+          "hasRrule": true,
+          "trim_type": "TrimTypeEnum.topping",
+          "logs": {
+            "9QlDjVOY4FwdjcEZUE6O": {
+              "date": "20250212",
+              "timestamp": { "_seconds": 1739394590, "_nanoseconds": 523376000 }
+            }
+          },
+          "timestamp": { "_seconds": 1739394590, "_nanoseconds": 523369000 },
+          "updatedAt": { "_seconds": 1739394589, "_nanoseconds": 292000000 }
+        }
+      ]
+    }
+  },
+  "lastUpdate": "20250212",
+  "photosCount": 0,
+  "strain": {},
+  "tree": {
+    "environmentMoves": [],
+    "stageChanges": [
+      { "date": "20250212", "from": "null", "to": "TreeStageEnum.germination" }
+    ],
+    "environment": { "name": "Indoor", "id": "PQyZJ8Xl27QzpVDnkZ93" },
+    "stage": "TreeStageEnum.germination",
+    "mediumDesc": null,
+    "name": "Unknown strain",
+    "mediumType": "null",
+    "weight": null,
+    "avatar": null,
+    "state": "TreeStateEnum.active",
+    "isClone": null,
+    "germinationDate": "20250212",
+    "stages": { "germination": "20250212" }
+  },
+  "user": { "lengthUnit": null, "temperatureUnit": null },
+  "views": 4
+}
