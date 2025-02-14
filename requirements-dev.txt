@@ -1,5 +1,0 @@
-pydantic
-requests
-ruff
-pytest
-pre-commit
